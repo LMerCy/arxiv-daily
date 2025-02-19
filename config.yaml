@@ -24,4 +24,4 @@ md_wechat_path: './docs/wechat.md'
 # topics: task/technique/dataset...
 keywords:
     "Autonomous Driving": 
-        filters: ["autonomous driving", "Reinforcement Learning"]
+        filters: ["autonomous driving"]
