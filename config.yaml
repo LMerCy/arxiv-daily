@@ -25,3 +25,5 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Autonomous Driving": 
         filters: ["autonomous driving"]
+    "HDMap":
+        filters: ["HDMap", "online map"]
