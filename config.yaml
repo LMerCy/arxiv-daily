@@ -23,42 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 # topics: task/technique/dataset...
 keywords:
-    "Point Cloud Compression": 
-        filters: ["Point Cloud Compression", 
-                  "Point Cloud Coding", 
-                  "Point Cloud Upsampling", 
-                  "Point Cloud Geometry Compression",
-                  "Point Cloud Geometry Coding",
-                  "Point Cloud Super Resolution",
-                  "Point Cloud Interpolation",
-                  "Point Cloud Attribute Compression",
-                  "Point Cloud Attribute Coding"]
-    "Compression":
-        filters: ["Compression", 
-                  "Image Compression",
-                  "Video Compression",
-                  "Data Compression",
-                  "Neural Compression",
-                  "Network Compression",
-                  "Image Coding",
-                  "Video Coding"]
-    "Quality Assessment":
-        filters: ["Perceptual Quality",
-                  "Quality Assessment",
-                  "Visual Quality",
-                  "Image Quality",
-                  "Video Quality",
-                  "Quality Evaluation",
-                  "Quality Estimation",
-                  "Quality Measurement"]
-    "Super Resolution":
-        filters: ["Super Resolution", 
-                  "Super-Resolution",
-                  "Upsampling",
-                  "Interpolation"]
-    "Remote Sensing":
-        filters: ["Remote Sensing", 
-                  "Hyperspectral", 
-                  "Multispectral", 
-                  "LiDAR",
-                  "Satellite"]
+    "Autonomous Driving": 
+        filters: ["autonomous driving", "Reinforcement Learning"]
+    "NeRF":
+        filters: ["NeRF"]
