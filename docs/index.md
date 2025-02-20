@@ -5062,6 +5062,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
+|**2025-02-18**|**Uncertain Multi-Objective Recommendation via Orthogonal Meta-Learning Enhanced Bayesian Optimization**|Hongxu Wang et.al.|[2502.13180](http://arxiv.org/abs/2502.13180)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**|Hao Gao et.al.|[2502.13144](http://arxiv.org/abs/2502.13144)|null|
 |**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137](http://arxiv.org/abs/2502.13137)|null|
@@ -5149,6 +5151,31 @@ layout: default
 |**2024-06-28**|**ML Updates for OpenStreetMap: Analysis of Research Gaps and Future Directions**|Lasith Niroshan et.al.|[2407.03365](http://arxiv.org/abs/2407.03365)|null|
 |**2024-06-20**|**LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction**|Kuang Wu et.al.|[2406.13988](http://arxiv.org/abs/2406.13988)|null|
 |**2024-06-05**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[2406.01961](http://arxiv.org/abs/2406.01961)|null|
+
+## Open Vocabulary
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377](http://arxiv.org/abs/2502.10377)|null|
+|**2025-02-11**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
+|**2025-01-08**|**Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation**|Ulindu De Silva et.al.|[2501.04696](http://arxiv.org/abs/2501.04696)|**[link](https://github.com/ulindup/segtto)**|
+|**2025-01-03**|**FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**|Bingyu Li et.al.|[2501.00877](http://arxiv.org/abs/2501.00877)|**[link](https://github.com/LiBingyu01/FGA-seg)**|
+|**2024-12-25**|**Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model**|Yi-Chia Chen et.al.|[2412.18917](http://arxiv.org/abs/2412.18917)|**[link](https://github.com/ai-application-and-integration-lab/omtseg)**|
+|**2024-12-24**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|**[link](https://github.com/hvision-nku/maskclippp)**|
+|**2024-12-13**|**Prompt-Guided Mask Proposal for Two-Stage Open-Vocabulary Segmentation**|Yu-Jhe Li et.al.|[2412.10292](http://arxiv.org/abs/2412.10292)|null|
+|**2024-12-12**|**VLMs meet UDA: Boosting Transferability of Open Vocabulary Segmentation with Unsupervised Domain Adaptation**|Roberto Alcover-Couso et.al.|[2412.09240](http://arxiv.org/abs/2412.09240)|null|
+|**2024-12-06**|**$S^3$ : Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925](http://arxiv.org/abs/2412.04925)|null|
+|**2024-12-05**|**Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation**|Yongkang Li et.al.|[2412.04533](http://arxiv.org/abs/2412.04533)|**[link](https://github.com/hustvl/maskadapter)**|
+|**2025-02-10**|**TACO: Training-free Sound Prompted Segmentation via Semantically Constrained Audio-visual CO-factorization**|Hugo Malard et.al.|[2412.01488](http://arxiv.org/abs/2412.01488)|null|
+|**2024-11-30**|**LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation**|Huadong Tang et.al.|[2412.00364](http://arxiv.org/abs/2412.00364)|null|
+|**2024-11-28**|**Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**|Luca Barsellotti et.al.|[2411.19331](http://arxiv.org/abs/2411.19331)|**[link](https://github.com/lorebianchi98/Talk2DINO)**|
+|**2024-11-27**|**GLS: Geometry-aware 3D Language Gaussian Splatting**|Jiaxiong Qiu et.al.|[2411.18066](http://arxiv.org/abs/2411.18066)|**[link](https://github.com/jiaxiongq/gls)**|
+|**2024-11-24**|**Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation**|Sule Bai et.al.|[2411.15869](http://arxiv.org/abs/2411.15869)|**[link](https://github.com/sulebai/sc-clip)**|
+|**2024-11-22**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723](http://arxiv.org/abs/2411.14723)|null|
+|**2024-12-06**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
+|**2024-11-19**|**Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting**|Haoyu Zhao et.al.|[2411.12789](http://arxiv.org/abs/2411.12789)|null|
+|**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
+|**2024-10-16**|**BlabberSeg: Real-Time Embedded Open-Vocabulary Aerial Segmentation**|Haechan Mark Bong et.al.|[2410.12979](http://arxiv.org/abs/2410.12979)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors
