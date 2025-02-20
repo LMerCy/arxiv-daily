@@ -27,3 +27,5 @@ keywords:
         filters: ["autonomous driving"]
     "HDMap":
         filters: ["HDMap", "online map"]
+    "Open Vocabulary":
+        filters: ["open vocabulary segmentation", "open vocabulary detection"]
