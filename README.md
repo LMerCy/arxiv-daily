@@ -43,7 +43,7 @@
 |**2025-02-17**|**A Framework for Learning Scoring Rules in Autonomous Driving Planning Systems**|Zikang Xiong et.al.|[2502.11352](http://arxiv.org/abs/2502.11352)|null|
 |**2025-02-15**|**NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**|Shutong Zhang et.al.|[2502.10720](http://arxiv.org/abs/2502.10720)|null|
 |**2025-02-14**|**Adaptive Neural Networks for Intelligent Data-Driven Development**|Youssef Shoeb et.al.|[2502.10603](http://arxiv.org/abs/2502.10603)|null|
-|**2025-02-14**|**The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**|Sifan Tu et.al.|[2502.10498](http://arxiv.org/abs/2502.10498)|null|
+|**2025-02-14**|**The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**|Sifan Tu et.al.|[2502.10498](http://arxiv.org/abs/2502.10498)|**[link](https://github.com/lmd0311/awesome-world-model)**|
 |**2025-02-14**|**A Robust Attack: Displacement Backdoor Attack**|Yong Li et.al.|[2502.10490](http://arxiv.org/abs/2502.10490)|null|
 |**2025-02-13**|**Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey**|Kumar Manas et.al.|[2502.10477](http://arxiv.org/abs/2502.10477)|null|
 |**2025-02-17**|**V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**|Hsu-kuang Chiu et.al.|[2502.09980](http://arxiv.org/abs/2502.09980)|null|
