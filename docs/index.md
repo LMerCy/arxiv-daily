@@ -5062,7 +5062,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-20**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
+|**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672](http://arxiv.org/abs/2502.15672)|**[link](https://github.com/valeoai/VideoActionModel)**|
+|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
+|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
+|**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
+|**2025-02-21**|**A modular risk concept for complex systems**|Dag McGeorge et.al.|[2502.15482](http://arxiv.org/abs/2502.15482)|null|
+|**2025-02-21**|**Aligning Task- and Reconstruction-Oriented Communications for Edge Intelligence**|Yufeng Diao et.al.|[2502.15472](http://arxiv.org/abs/2502.15472)|null|
+|**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
+|**2025-02-21**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342](http://arxiv.org/abs/2502.15342)|null|
+|**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[2502.15180](http://arxiv.org/abs/2502.15180)|null|
+|**2025-02-21**|**CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models**|Zihao Sheng et.al.|[2502.15119](http://arxiv.org/abs/2502.15119)|null|
+|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|null|
+|**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
 |**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792](http://arxiv.org/abs/2502.14792)|null|
 |**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[2502.14574](http://arxiv.org/abs/2502.14574)|null|
 |**2025-02-20**|**Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**|Meng Wang et.al.|[2502.14520](http://arxiv.org/abs/2502.14520)|null|
