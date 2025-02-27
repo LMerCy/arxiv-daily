@@ -19,13 +19,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|null|
+|**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
+|**2025-02-26**|**Learning Autonomy: Off-Road Navigation Enhanced by Human Input**|Akhil Nagariya et.al.|[2502.18760](http://arxiv.org/abs/2502.18760)|null|
+|**2025-02-25**|**Provably Efficient RL for Linear MDPs under Instantaneous Safety Constraints in Non-Convex Feature Spaces**|Amirhossein Roknilamouki et.al.|[2502.18655](http://arxiv.org/abs/2502.18655)|null|
 |**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[2502.18042](http://arxiv.org/abs/2502.18042)|null|
 |**2025-02-25**|**Exploring the Effects of Traditional Chinese Medicine Scents on Mitigating Driving Fatigue**|Nengyue Su et.al.|[2502.18013](http://arxiv.org/abs/2502.18013)|null|
 |**2025-02-25**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**|Bo Zhang et.al.|[2502.17949](http://arxiv.org/abs/2502.17949)|null|
 |**2025-02-25**|**VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution**|Rui Lu et.al.|[2502.17880](http://arxiv.org/abs/2502.17880)|null|
-|**2025-02-25**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
+|**2025-02-26**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
 |**2025-02-25**|**CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**|Rui Liu et.al.|[2502.17821](http://arxiv.org/abs/2502.17821)|null|
-|**2025-02-24**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Chenga et.al.|[2502.17648](http://arxiv.org/abs/2502.17648)|null|
+|**2025-02-26**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Cheng et.al.|[2502.17648](http://arxiv.org/abs/2502.17648)|null|
 |**2025-02-25**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288](http://arxiv.org/abs/2502.17288)|null|
 |**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|**[link](https://github.com/scnu-rislab/mambaflow)**|
 |**2025-02-24**|**Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**|Yaozu Wu et.al.|[2502.16804](http://arxiv.org/abs/2502.16804)|null|
@@ -112,7 +116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-23**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486](http://arxiv.org/abs/2502.16486)|null|
+|**2025-02-26**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486](http://arxiv.org/abs/2502.16486)|null|
 |**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377](http://arxiv.org/abs/2502.10377)|null|
 |**2025-02-11**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
 |**2025-01-08**|**Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation**|Ulindu De Silva et.al.|[2501.04696](http://arxiv.org/abs/2501.04696)|**[link](https://github.com/ulindup/segtto)**|
