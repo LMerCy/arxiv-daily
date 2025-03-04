@@ -24,7 +24,7 @@
 |**2025-02-28**|**Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems**|Faisal Mohammad et.al.|[2502.20806](http://arxiv.org/abs/2502.20806)|null|
 |**2025-02-28**|**WorldModelBench: Judging Video Generation Models As World Models**|Dacheng Li et.al.|[2502.20694](http://arxiv.org/abs/2502.20694)|null|
 |**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607](http://arxiv.org/abs/2502.20607)|null|
-|**2025-02-27**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[2502.20108](http://arxiv.org/abs/2502.20108)|null|
+|**2025-03-01**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[2502.20108](http://arxiv.org/abs/2502.20108)|null|
 |**2025-02-27**|**Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**|Haicheng Liao et.al.|[2502.20084](http://arxiv.org/abs/2502.20084)|null|
 |**2025-02-28**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
 |**2025-02-27**|**CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving**|Dongkun Zhang et.al.|[2502.19908](http://arxiv.org/abs/2502.19908)|null|
@@ -33,7 +33,7 @@
 |**2025-02-27**|**BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance**|Xin Ye et.al.|[2502.19694](http://arxiv.org/abs/2502.19694)|null|
 |**2025-02-27**|**Unveiling Security Weaknesses in Autonomous Driving Systems: An In-Depth Empirical Study**|Wenyuan Cheng et.al.|[2502.19687](http://arxiv.org/abs/2502.19687)|null|
 |**2025-02-26**|**Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**|Hoonhee Cho et.al.|[2502.19630](http://arxiv.org/abs/2502.19630)|null|
-|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|**[link](https://github.com/av-lab/emt-dataset)**|
+|**2025-03-02**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|**[link](https://github.com/av-lab/emt-dataset)**|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
 |**2025-02-26**|**Learning Autonomy: Off-Road Navigation Enhanced by Human Input**|Akhil Nagariya et.al.|[2502.18760](http://arxiv.org/abs/2502.18760)|null|
 |**2025-02-25**|**Provably Efficient RL for Linear MDPs under Instantaneous Safety Constraints in Non-Convex Feature Spaces**|Amirhossein Roknilamouki et.al.|[2502.18655](http://arxiv.org/abs/2502.18655)|null|
