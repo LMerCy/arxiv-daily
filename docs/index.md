@@ -5062,6 +5062,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization**|Junhao Xu et.al.|[2503.03430](http://arxiv.org/abs/2503.03430)|null|
+|**2025-03-05**|**Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions**|Nadya Abdel Madjid et.al.|[2503.03262](http://arxiv.org/abs/2503.03262)|null|
+|**2025-03-05**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[2503.03125](http://arxiv.org/abs/2503.03125)|null|
+|**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[2503.03100](http://arxiv.org/abs/2503.03100)|null|
+|**2025-03-05**|**BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving**|Katharina Winter et.al.|[2503.03074](http://arxiv.org/abs/2503.03074)|null|
+|**2025-03-04**|**Text2Scenario: Text-Driven Scenario Generation for Autonomous Driving Test**|Xuan Cai et.al.|[2503.02911](http://arxiv.org/abs/2503.02911)|null|
 |**2025-03-04**|**Federated Learning for Privacy-Preserving Feedforward Control in Multi-Agent Systems**|Jakob Weber et.al.|[2503.02693](http://arxiv.org/abs/2503.02693)|**[link](https://github.com/j-cap/FL-based-neural-FF-control)**|
 |**2025-03-04**|**State of play and future directions in industrial computer vision AI standards**|Artemis Stefanidou et.al.|[2503.02675](http://arxiv.org/abs/2503.02675)|null|
 |**2025-03-04**|**Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**|Yang Li et.al.|[2503.02624](http://arxiv.org/abs/2503.02624)|null|
@@ -5070,7 +5076,7 @@ layout: default
 |**2025-03-04**|**Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images**|Ruixin Wu et.al.|[2503.02300](http://arxiv.org/abs/2503.02300)|null|
 |**2025-03-03**|**Road Boundary Detection Using 4D mmWave Radar for Autonomous Driving**|Yuyan Wu et.al.|[2503.01930](http://arxiv.org/abs/2503.01930)|null|
 |**2025-03-03**|**ECG-EmotionNet: Nested Mixture of Expert (NMoE) Adaptation of ECG-Foundation Model for Driver Emotion Recognition**|Nastaran Mansourian et.al.|[2503.01750](http://arxiv.org/abs/2503.01750)|null|
-|**2025-03-03**|**Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**|Elahe Delavari et.al.|[2503.01676](http://arxiv.org/abs/2503.01676)|null|
+|**2025-03-05**|**Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**|Elahe Delavari et.al.|[2503.01676](http://arxiv.org/abs/2503.01676)|null|
 |**2025-03-03**|**CAPS: Context-Aware Priority Sampling for Enhanced Imitation Learning in Autonomous Driving**|Hamidreza Mirkhani et.al.|[2503.01650](http://arxiv.org/abs/2503.01650)|null|
 |**2025-03-03**|**DifIISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution**|Xingyuan Li et.al.|[2503.01187](http://arxiv.org/abs/2503.01187)|**[link](https://github.com/zirui0625/difiisr)**|
 |**2025-03-03**|**Privacy-preserving Machine Learning in Internet of Vehicle Applications: Fundamentals, Recent Advances, and Future Direction**|Nazmul Islam et.al.|[2503.01089](http://arxiv.org/abs/2503.01089)|null|
@@ -5252,6 +5258,31 @@ layout: default
 |**2024-11-19**|**Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting**|Haoyu Zhao et.al.|[2411.12789](http://arxiv.org/abs/2411.12789)|null|
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-10-16**|**BlabberSeg: Real-Time Embedded Open-Vocabulary Aerial Segmentation**|Haechan Mark Bong et.al.|[2410.12979](http://arxiv.org/abs/2410.12979)|null|
+
+## VLA
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
+|**2025-03-05**|**SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning**|Borong Zhang et.al.|[2503.03480](http://arxiv.org/abs/2503.03480)|null|
+|**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Wenxuan Song et.al.|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
+|**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Artem Lykov et.al.|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
+|**2025-03-03**|**A Taxonomy for Evaluating Generalist Robot Policies**|Jensen Gao et.al.|[2503.01238](http://arxiv.org/abs/2503.01238)|null|
+|**2025-03-05**|**DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping**|Yifan Zhong et.al.|[2502.20900](http://arxiv.org/abs/2502.20900)|null|
+|**2025-02-27**|**Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success**|Moo Jin Kim et.al.|[2502.19645](http://arxiv.org/abs/2502.19645)|null|
+|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
+|**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Minjie Zhu et.al.|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
+|**2025-02-25**|**Evolution 6.0: Evolving Robotic Capabilities Through Generative Design**|Muhammad Haris Khan et.al.|[2502.17034](http://arxiv.org/abs/2502.17034)|null|
+|**2025-02-21**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
+|**2025-02-21**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|**[link](https://github.com/whichwhichgone/VLAS)**|
+|**2025-02-14**|**Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**|Shichao Fan et.al.|[2502.10040](http://arxiv.org/abs/2502.10040)|null|
+|**2025-02-14**|**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**|Hongyin Zhang et.al.|[2502.09268](http://arxiv.org/abs/2502.09268)|null|
+|**2025-02-15**|**Survey on Vision-Language-Action Models**|Adilzhan Adilkhanov et.al.|[2502.06851](http://arxiv.org/abs/2502.06851)|null|
+|**2025-02-09**|**DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control**|Junjie Wen et.al.|[2502.05855](http://arxiv.org/abs/2502.05855)|null|
+|**2025-02-14**|**HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation**|Yi Li et.al.|[2502.05485](http://arxiv.org/abs/2502.05485)|null|
+|**2025-02-08**|**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**|Yuhui Chen et.al.|[2502.05450](http://arxiv.org/abs/2502.05450)|null|
+|**2025-02-06**|**Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**|Hong Lu et.al.|[2502.04558](http://arxiv.org/abs/2502.04558)|null|
+|**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/abs/2502.02175)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors
