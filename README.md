@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**|Han Zhao et.al.|[2503.08007](http://arxiv.org/abs/2503.08007)|null|
+|**2025-03-10**|**PointVLA: Injecting the 3D World into Vision-Language-Action Models**|Chengmeng Li et.al.|[2503.07511](http://arxiv.org/abs/2503.07511)|null|
 |**2025-03-06**|**Refined Policy Distillation: From VLA Generalists to RL Experts**|Tobias Jülg et.al.|[2503.05833](http://arxiv.org/abs/2503.05833)|null|
 |**2025-03-06**|**VLA Model-Expert Collaboration for Bi-directional Manipulation Learning**|Tian-Yu Xiang et.al.|[2503.04163](http://arxiv.org/abs/2503.04163)|null|
 |**2025-03-11**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
@@ -49,6 +51,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[2503.08661](http://arxiv.org/abs/2503.08661)|null|
+|**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/abs/2503.08612)|null|
+|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
+|**2025-03-11**|**JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**|Runjian Chen et.al.|[2503.08422](http://arxiv.org/abs/2503.08422)|null|
+|**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|null|
+|**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
+|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2503.08162](http://arxiv.org/abs/2503.08162)|null|
+|**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068](http://arxiv.org/abs/2503.08068)|null|
+|**2025-03-11**|**SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**|Akshat Ghiya et.al.|[2503.08016](http://arxiv.org/abs/2503.08016)|null|
+|**2025-03-11**|**STEAD: Spatio-Temporal Efficient Anomaly Detection for Time and Compute Sensitive Applications**|Andrew Gao et.al.|[2503.07942](http://arxiv.org/abs/2503.07942)|null|
+|**2025-03-10**|**AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**|Bo Jiang et.al.|[2503.07608](http://arxiv.org/abs/2503.07608)|null|
+|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
 |**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
 |**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
 |**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
@@ -223,6 +240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**PE3R: Perception-Efficient 3D Reconstruction**|Jie Hu et.al.|[2503.07507](http://arxiv.org/abs/2503.07507)|null|
 |**2025-03-03**|**OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging**|Yijie Tang et.al.|[2503.01309](http://arxiv.org/abs/2503.01309)|null|
 |**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
 |**2025-02-26**|**MQADet: A Plug-and-Play Paradigm for Enhancing Open-Vocabulary Object Detection via Multimodal Question Answering**|Caixiong Li et.al.|[2502.16486](http://arxiv.org/abs/2502.16486)|null|
