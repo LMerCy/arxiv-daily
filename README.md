@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**GR00T N1: An Open Foundation Model for Generalist Humanoid Robots**|NVIDIA et.al.|[2503.14734](http://arxiv.org/abs/2503.14734)|null|
+|**2025-03-15**|**ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis**|Yu Fang et.al.|[2503.14526](http://arxiv.org/abs/2503.14526)|null|
 |**2025-03-17**|**MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation**|Zhenyu Wu et.al.|[2503.13446](http://arxiv.org/abs/2503.13446)|null|
 |**2025-03-17**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
 |**2025-03-12**|**CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**|Peng Chen et.al.|[2503.09527](http://arxiv.org/abs/2503.09527)|null|
@@ -54,11 +56,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-19**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[2503.14501](http://arxiv.org/abs/2503.14501)|null|
-|**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.14498](http://arxiv.org/abs/2503.14498)|null|
+|**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[2503.15435](http://arxiv.org/abs/2503.15435)|null|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
+|**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[2503.15087](http://arxiv.org/abs/2503.15087)|null|
+|**2025-03-19**|**DRoPE: Directional Rotary Position Embedding for Efficient Agent Interaction Modeling**|Jianbo Zhao et.al.|[2503.15029](http://arxiv.org/abs/2503.15029)|null|
+|**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950](http://arxiv.org/abs/2503.14950)|null|
+|**2025-03-19**|**Generating Multimodal Driving Scenes via Next-Scene Prediction**|Yanhao Wu et.al.|[2503.14945](http://arxiv.org/abs/2503.14945)|null|
+|**2025-03-19**|**SemanticFlow: A Self-Supervised Framework for Joint Scene Flow Prediction and Instance Segmentation in Dynamic Environments**|Yinqi Chen et.al.|[2503.14837](http://arxiv.org/abs/2503.14837)|null|
+|**2025-03-19**|**MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**|Chejian Xu et.al.|[2503.14827](http://arxiv.org/abs/2503.14827)|null|
+|**2025-03-18**|**RAT: Boosting Misclassification Detection Ability without Extra Data**|Ge Yan et.al.|[2503.14783](http://arxiv.org/abs/2503.14783)|null|
+|**2025-03-18**|**SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization**|Yi Du et.al.|[2503.14558](http://arxiv.org/abs/2503.14558)|null|
+|**2025-03-19**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[2503.14501](http://arxiv.org/abs/2503.14501)|**[link](https://github.com/miaoqiaowei/awesome-4d)**|
+|**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.14498](http://arxiv.org/abs/2503.14498)|**[link](https://github.com/mbzuai-oryx/trackingmeetslmm)**|
 |**2025-03-18**|**Driving behavior recognition via self-discovery learning**|Yilin Wang et.al.|[2503.14194](http://arxiv.org/abs/2503.14194)|null|
 |**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182](http://arxiv.org/abs/2503.14182)|null|
-|**2025-03-18**|**SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model**|Xinqing Li et.al.|[2503.13952](http://arxiv.org/abs/2503.13952)|null|
+|**2025-03-18**|**SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model**|Xinqing Li et.al.|[2503.13952](http://arxiv.org/abs/2503.13952)|**[link](https://github.com/li-zn-h/simworld)**|
 |**2025-03-18**|**ChatBEV: A Visual Language Model that Understands BEV Maps**|Qingyao Xu et.al.|[2503.13938](http://arxiv.org/abs/2503.13938)|null|
 |**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
 |**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
