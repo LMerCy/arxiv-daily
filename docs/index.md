@@ -2652,7 +2652,7 @@ layout: default
 |**2024-04-30**|**Causal Perception Inspired Representation Learning for Trustworthy Image Quality Assessment**|Lei Wang et.al.|[2404.19567](http://arxiv.org/abs/2404.19567)|null|
 |**2024-05-04**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500](http://arxiv.org/abs/2404.19500)|null|
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
-|**2024-04-30**|**Global Search Optics: Automatically Exploring Optimal Solutions to Compact Computational Imaging Systems**|Yao Gao et.al.|[2404.19201](http://arxiv.org/abs/2404.19201)|null|
+|**2024-04-30**|**Global Search Optics: Automatically Exploring Optimal Solutions to Compact Computational Imaging Systems**|Yao Gao et.al.|[2404.19201](http://arxiv.org/abs/2404.19201)|**[link](https://github.com/ligpy/qgso)**|
 |**2024-04-30**|**Advancing low-field MRI with a universal denoising imaging transformer: Towards fast and high-quality imaging**|Zheren Zhu et.al.|[2404.19167](http://arxiv.org/abs/2404.19167)|**[link](https://github.com/zherenz/imt-mrd)**|
 |**2024-04-29**|**A Comprehensive Rubric for Annotating Pathological Speech**|Mario Corrales-Astorgano et.al.|[2404.18851](http://arxiv.org/abs/2404.18851)|null|
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458](http://arxiv.org/abs/2404.18458)|null|
@@ -5087,7 +5087,7 @@ layout: default
 |**2025-03-18**|**PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds**|Barza Nisar et.al.|[2503.13914](http://arxiv.org/abs/2503.13914)|null|
 |**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
 |**2025-03-18**|**RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2503.13861](http://arxiv.org/abs/2503.13861)|null|
-|**2025-03-18**|**MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations**|Hongyu Ke et.al.|[2503.13858](http://arxiv.org/abs/2503.13858)|null|
+|**2025-03-18**|**MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations**|Hongyu Ke et.al.|[2503.13858](http://arxiv.org/abs/2503.13858)|**[link](https://github.com/amai-gsu/mambev)**|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430](http://arxiv.org/abs/2503.13430)|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
 |**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[2503.13203](http://arxiv.org/abs/2503.13203)|null|
@@ -5098,7 +5098,7 @@ layout: default
 |**2025-03-17**|**SAM2 for Image and Video Segmentation: A Comprehensive Survey**|Zhang Jiaxing et.al.|[2503.12781](http://arxiv.org/abs/2503.12781)|null|
 |**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720](http://arxiv.org/abs/2503.12720)|**[link](https://github.com/Qjizhi/GenStereo)**|
 |**2025-03-16**|**Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding**|Imran Kabir et.al.|[2503.12663](http://arxiv.org/abs/2503.12663)|null|
-|**2025-03-16**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|null|
+|**2025-03-16**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|**[link](https://github.com/yaotingwangofficial/awesome-mcot)**|
 |**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595](http://arxiv.org/abs/2503.12595)|null|
 |**2025-03-16**|**Car-1000: A New Large Scale Fine-Grained Visual Categorization Dataset**|Yutao Hu et.al.|[2503.12385](http://arxiv.org/abs/2503.12385)|null|
 |**2025-03-16**|**L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model**|Ruoyu Wang et.al.|[2503.12369](http://arxiv.org/abs/2503.12369)|null|
@@ -5110,8 +5110,8 @@ layout: default
 |**2025-03-15**|**TACO: Taming Diffusion for in-the-wild Video Amodal Completion**|Ruijie Lu et.al.|[2503.12049](http://arxiv.org/abs/2503.12049)|null|
 |**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650](http://arxiv.org/abs/2503.11650)|null|
 |**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400](http://arxiv.org/abs/2503.11400)|null|
-|**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|null|
-|**2025-03-14**|**Learning-Based MPC for Efficient Control of Autonomous Vehicles**|Samuel Mallick et.al.|[2503.11359](http://arxiv.org/abs/2503.11359)|null|
+|**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|**[link](https://github.com/nubot-nudt/bevdiffloc)**|
+|**2025-03-14**|**Learning-Based MPC for Efficient Control of Autonomous Vehicles**|Samuel Mallick et.al.|[2503.11359](http://arxiv.org/abs/2503.11359)|**[link](https://github.com/samuelmallick/mpcrl-vehicle-gears)**|
 |**2025-03-14**|**DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**|Xirui Zhou et.al.|[2503.11265](http://arxiv.org/abs/2503.11265)|null|
 |**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|null|
 |**2025-03-14**|**Active Learning from Scene Embeddings for End-to-End Autonomous Driving**|Wenhao Jiang et.al.|[2503.11062](http://arxiv.org/abs/2503.11062)|null|
@@ -5150,7 +5150,7 @@ layout: default
 |**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2503.08162](http://arxiv.org/abs/2503.08162)|null|
 |**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068](http://arxiv.org/abs/2503.08068)|null|
 |**2025-03-11**|**SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**|Akshat Ghiya et.al.|[2503.08016](http://arxiv.org/abs/2503.08016)|null|
-|**2025-03-11**|**STEAD: Spatio-Temporal Efficient Anomaly Detection for Time and Compute Sensitive Applications**|Andrew Gao et.al.|[2503.07942](http://arxiv.org/abs/2503.07942)|null|
+|**2025-03-11**|**STEAD: Spatio-Temporal Efficient Anomaly Detection for Time and Compute Sensitive Applications**|Andrew Gao et.al.|[2503.07942](http://arxiv.org/abs/2503.07942)|**[link](https://github.com/agao8/STEAD)**|
 |**2025-03-10**|**AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**|Bo Jiang et.al.|[2503.07608](http://arxiv.org/abs/2503.07608)|**[link](https://github.com/hustvl/alphadrive)**|
 |**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
 |**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|**[link](https://github.com/xr-lee/neural-symbolic)**|
@@ -5160,7 +5160,7 @@ layout: default
 |**2025-03-10**|**Temporal Triplane Transformers as Occupancy World Models**|Haoran Xu et.al.|[2503.07338](http://arxiv.org/abs/2503.07338)|null|
 |**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[2503.07234](http://arxiv.org/abs/2503.07234)|null|
 |**2025-03-10**|**HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**|Jing Yang et.al.|[2503.07168](http://arxiv.org/abs/2503.07168)|null|
-|**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[2503.07152](http://arxiv.org/abs/2503.07152)|null|
+|**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[2503.07152](http://arxiv.org/abs/2503.07152)|**[link](https://github.com/yuhengliu02/control-3d-scene)**|
 |**2025-03-10**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085](http://arxiv.org/abs/2503.07085)|null|
 |**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-03-10**|**Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**|Yuting Hu et.al.|[2503.07020](http://arxiv.org/abs/2503.07020)|null|
