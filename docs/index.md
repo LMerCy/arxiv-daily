@@ -5062,6 +5062,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
+|**2025-03-25**|**LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**|Manjushree Aithal et.al.|[2503.19804](http://arxiv.org/abs/2503.19804)|null|
+|**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776](http://arxiv.org/abs/2503.19776)|null|
+|**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[2503.19755](http://arxiv.org/abs/2503.19755)|null|
+|**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713](http://arxiv.org/abs/2503.19713)|null|
+|**2025-03-25**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[2503.19690](http://arxiv.org/abs/2503.19690)|null|
+|**2025-03-25**|**Multi-Agent Deep Reinforcement Learning for Safe Autonomous Driving with RICS-Assisted MEC**|Xueyao Zhang et.al.|[2503.19418](http://arxiv.org/abs/2503.19418)|null|
+|**2025-03-25**|**ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models**|Dohwan Ko et.al.|[2503.19355](http://arxiv.org/abs/2503.19355)|null|
+|**2025-03-25**|**A Reliable and Efficient 5G Vehicular MEC: Guaranteed Task Completion with Minimal Latency**|Mahsa Paknejad et.al.|[2503.19320](http://arxiv.org/abs/2503.19320)|null|
+|**2025-03-25**|**BIMII-Net: Brain-Inspired Multi-Iterative Interactive Network for RGB-T Road Scene Semantic Segmentation**|Hanshuo Qiu et.al.|[2503.19303](http://arxiv.org/abs/2503.19303)|null|
+|**2025-03-25**|**Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications**|Ben Rahman et.al.|[2503.19276](http://arxiv.org/abs/2503.19276)|null|
+|**2025-03-24**|**Enhancing V2X Communications with UAV-mounted Reconfigurable Intelligent Surfaces**|Salim Janji et.al.|[2503.19038](http://arxiv.org/abs/2503.19038)|null|
 |**2025-03-24**|**Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**|Moussa Kassem Sbeyti et.al.|[2503.18903](http://arxiv.org/abs/2503.18903)|null|
 |**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[2503.18730](http://arxiv.org/abs/2503.18730)|null|
 |**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[2503.18666](http://arxiv.org/abs/2503.18666)|null|
@@ -5385,6 +5397,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647](http://arxiv.org/abs/2503.19647)|null|
 |**2025-03-20**|**Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding**|Jinlong Li et.al.|[2503.16707](http://arxiv.org/abs/2503.16707)|null|
 |**2025-03-18**|**Leveraging Vision-Language Models for Open-Vocabulary Instance Segmentation and Tracking**|Bastian Pätzold et.al.|[2503.16538](http://arxiv.org/abs/2503.16538)|null|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
@@ -5418,6 +5431,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**|Zhi Hou et.al.|[2503.19757](http://arxiv.org/abs/2503.19757)|null|
+|**2025-03-25**|**DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data**|Liming Zheng et.al.|[2503.19516](http://arxiv.org/abs/2503.19516)|null|
 |**2025-03-18**|**GR00T N1: An Open Foundation Model for Generalist Humanoid Robots**|NVIDIA et.al.|[2503.14734](http://arxiv.org/abs/2503.14734)|null|
 |**2025-03-15**|**ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis**|Yu Fang et.al.|[2503.14526](http://arxiv.org/abs/2503.14526)|null|
 |**2025-03-17**|**MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation**|Zhenyu Wu et.al.|[2503.13446](http://arxiv.org/abs/2503.13446)|null|
