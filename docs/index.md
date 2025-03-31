@@ -457,7 +457,7 @@ layout: default
 |**2024-10-07**|**Salient Store: Enabling Smart Storage for Continuous Learning Edge Servers**|Cyan Subhra Mishra et.al.|[2410.05435](http://arxiv.org/abs/2410.05435)|null|
 |**2024-10-07**|**Causal Context Adjustment Loss for Learned Image Compression**|Minghao Han et.al.|[2410.04847](http://arxiv.org/abs/2410.04847)|**[link](https://github.com/LabShuHangGU/CCA)**|
 |**2024-10-06**|**Channel-Aware Throughput Maximization for Cooperative Data Fusion in CAV**|Haonan An et.al.|[2410.04320](http://arxiv.org/abs/2410.04320)|null|
-|**2024-10-05**|**Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|null|
+|**2024-10-05**|**Robust Task-Oriented Communication Framework for Real-Time Collaborative Vision Perception**|Zhengru Fang et.al.|[2410.04168](http://arxiv.org/abs/2410.04168)|**[link](https://github.com/fangzr/R-ACP)**|
 |**2024-10-04**|**On the Rate-Distortion-Complexity Trade-offs of Neural Video Coding**|Yi-Hsin Chen et.al.|[2410.03898](http://arxiv.org/abs/2410.03898)|null|
 |**2024-10-04**|**A Framework for Automatic Validation and Application of Lossy Data Compression in Ensemble Data Assimilation**|Kai Keller et.al.|[2410.03184](http://arxiv.org/abs/2410.03184)|null|
 |**2024-10-03**|**GABIC: Graph-based Attention Block for Image Compression**|Gabriele Spadaro et.al.|[2410.02981](http://arxiv.org/abs/2410.02981)|**[link](https://github.com/EIDOSLAB/GABIC)**|
@@ -1047,7 +1047,7 @@ layout: default
 |**2025-02-10**|**Image Intrinsic Scale Assessment: Bridging the Gap Between Quality and Resolution**|Vlad Hosu et.al.|[2502.06476](http://arxiv.org/abs/2502.06476)|null|
 |**2025-02-10**|**How Humans Help LLMs: Assessing and Incentivizing Human Preference Annotators**|Shang Liu et.al.|[2502.06387](http://arxiv.org/abs/2502.06387)|null|
 |**2025-02-10**|**Guidance-base Diffusion Models for Improving Photoacoustic Image Quality**|Tatsuhiro Eguchi et.al.|[2502.06354](http://arxiv.org/abs/2502.06354)|null|
-|**2025-02-10**|**LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**|Sihwan Park et.al.|[2502.06352](http://arxiv.org/abs/2502.06352)|null|
+|**2025-02-10**|**LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**|Sihwan Park et.al.|[2502.06352](http://arxiv.org/abs/2502.06352)|**[link](https://github.com/jadohu/LANTERN)**|
 |**2025-02-10**|**A CT Geometry With Multiple Centers Of Rotation For Solving Sparse View Problem**|Jiayu Duan et.al.|[2502.06125](http://arxiv.org/abs/2502.06125)|null|
 |**2025-02-10**|**Token-Domain Multiple Access: Exploiting Semantic Orthogonality for Collision Mitigation**|Li Qiao et.al.|[2502.06118](http://arxiv.org/abs/2502.06118)|null|
 |**2025-02-09**|**Dual Caption Preference Optimization for Diffusion Models**|Amir Saeidi et.al.|[2502.06023](http://arxiv.org/abs/2502.06023)|null|
@@ -3130,7 +3130,7 @@ layout: default
 |**2025-01-23**|**Gradient-Free Adversarial Purification with Diffusion Models**|Xuelong Dai et.al.|[2501.13336](http://arxiv.org/abs/2501.13336)|null|
 |**2025-01-22**|**On the Use of WGANs for Super Resolution in Dark-Matter Simulations**|John Brennan et.al.|[2501.13056](http://arxiv.org/abs/2501.13056)|**[link](https://github.com/brenjohn/DMSR-WGAN)**|
 |**2025-01-21**|**Analyzer-less X-ray Interferometry with Super-Resolution Methods**|Joyoni Dey et.al.|[2501.12527](http://arxiv.org/abs/2501.12527)|null|
-|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
+|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|**[link](https://github.com/eunjnnn/bfstvsr)**|
 |**2025-01-18**|**FlashSR: One-step Versatile Audio Super-resolution via Diffusion Distillation**|Jaekwon Im et.al.|[2501.10807](http://arxiv.org/abs/2501.10807)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
 |**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
@@ -3166,7 +3166,7 @@ layout: default
 |**2025-01-07**|**GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution**|Qiwei Zhu et.al.|[2501.01460](http://arxiv.org/abs/2501.01460)|null|
 |**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|**[link](https://github.com/tirer-lab/cm4ir)**|
 |**2024-12-28**|**Continuous and Reversible Electrical Tuning of Fluorescent Decay Rate via Fano Resonance**|Emre Ozan Polat et.al.|[2412.20199](http://arxiv.org/abs/2412.20199)|null|
-|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|null|
+|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|**[link](https://github.com/XLearning-SCU/2025-CVPR-MaIR)**|
 |**2024-12-28**|**Enhancing Diffusion Models for Inverse Problems with Covariance-Aware Posterior Sampling**|Shayan Mohajer Hamidi et.al.|[2412.20045](http://arxiv.org/abs/2412.20045)|null|
 |**2024-12-28**|**An Ordinary Differential Equation Sampler with Stochastic Start for Diffusion Bridge Models**|Yuang Wang et.al.|[2412.19992](http://arxiv.org/abs/2412.19992)|null|
 |**2024-12-27**|**Modeling Continuous Spatial-temporal Dynamics of Turbulent Flow with Test-time Refinement**|Shengyu Chen et.al.|[2412.19927](http://arxiv.org/abs/2412.19927)|null|
@@ -3239,7 +3239,7 @@ layout: default
 |**2024-12-01**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003](http://arxiv.org/abs/2411.18003)|null|
 |**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
 |**2024-11-26**|**Perceptually Optimized Super Resolution**|Volodymyr Karpenko et.al.|[2411.17513](http://arxiv.org/abs/2411.17513)|null|
-|**2024-11-26**|**MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution**|Chengxing Xie et.al.|[2411.17214](http://arxiv.org/abs/2411.17214)|null|
+|**2024-11-26**|**MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution**|Chengxing Xie et.al.|[2411.17214](http://arxiv.org/abs/2411.17214)|**[link](https://github.com/stella-von/MAT)**|
 |**2024-12-03**|**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2411.17106](http://arxiv.org/abs/2411.17106)|**[link](https://github.com/libozhu03/passionsr)**|
 |**2024-11-26**|**ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction**|Chang Li et.al.|[2411.17088](http://arxiv.org/abs/2411.17088)|null|
 |**2024-11-25**|**ZoomLDM: Latent Diffusion Model for multi-scale image generation**|Srikar Yellapragada et.al.|[2411.16969](http://arxiv.org/abs/2411.16969)|null|
@@ -3289,7 +3289,7 @@ layout: default
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706](http://arxiv.org/abs/2411.04706)|null|
 |**2024-11-06**|**"Super-resolution" holographic optical tweezers array**|Keisuke Nishimura et.al.|[2411.03564](http://arxiv.org/abs/2411.03564)|null|
 |**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505](http://arxiv.org/abs/2411.03505)|**[link](https://github.com/visionresearchlab/synthset)**|
-|**2024-11-05**|**Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution**|Huan Zheng et.al.|[2411.03239](http://arxiv.org/abs/2411.03239)|null|
+|**2024-11-05**|**Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution**|Huan Zheng et.al.|[2411.03239](http://arxiv.org/abs/2411.03239)|**[link](https://github.com/ian0926/gdnet)**|
 |**2024-11-05**|**Applications of Automatic Differentiation in Image Registration**|Warin Watson et.al.|[2411.02806](http://arxiv.org/abs/2411.02806)|**[link](https://github.com/wdwatson2/ImgRegPytorchProject)**|
 |**2024-11-05**|**Super-resolution generalized eigenvalue method with truly sub-Nyquist sampling**|Baoguo Liu et.al.|[2411.02700](http://arxiv.org/abs/2411.02700)|null|
 |**2024-11-01**|**Strongly Topology-preserving GNNs for Brain Graph Super-resolution**|Pragya Singh et.al.|[2411.02525](http://arxiv.org/abs/2411.02525)|null|
@@ -5082,7 +5082,7 @@ layout: default
 |**2025-03-25**|**LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**|Manjushree Aithal et.al.|[2503.19804](http://arxiv.org/abs/2503.19804)|null|
 |**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776](http://arxiv.org/abs/2503.19776)|null|
 |**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[2503.19755](http://arxiv.org/abs/2503.19755)|null|
-|**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713](http://arxiv.org/abs/2503.19713)|null|
+|**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713](http://arxiv.org/abs/2503.19713)|**[link](https://github.com/xieyuser/semi-sd)**|
 |**2025-03-27**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[2503.19690](http://arxiv.org/abs/2503.19690)|null|
 |**2025-03-25**|**Multi-Agent Deep Reinforcement Learning for Safe Autonomous Driving with RICS-Assisted MEC**|Xueyao Zhang et.al.|[2503.19418](http://arxiv.org/abs/2503.19418)|null|
 |**2025-03-26**|**ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models**|Dohwan Ko et.al.|[2503.19355](http://arxiv.org/abs/2503.19355)|null|
@@ -5096,11 +5096,11 @@ layout: default
 |**2025-03-24**|**Robust Lane Detection with Wavelet-Enhanced Context Modeling and Adaptive Sampling**|Kunyang Li et.al.|[2503.18631](http://arxiv.org/abs/2503.18631)|null|
 |**2025-03-24**|**ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation**|Guosheng Zhao et.al.|[2503.18438](http://arxiv.org/abs/2503.18438)|null|
 |**2025-03-23**|**Training A Neural Network For Partially Occluded Road Sign Identification In The Context Of Autonomous Vehicles**|Gulnaz Gimaletdinova et.al.|[2503.18177](http://arxiv.org/abs/2503.18177)|null|
-|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|**[link](https://github.com/cancaries/SceneCrafter)**|
 |**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[2503.18100](http://arxiv.org/abs/2503.18100)|null|
-|**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|null|
-|**2025-03-22**|**HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving**|R. D. Lin et.al.|[2503.17752](http://arxiv.org/abs/2503.17752)|null|
-|**2025-03-22**|**Multi-modality Anomaly Segmentation on the Road**|Heng Gao et.al.|[2503.17712](http://arxiv.org/abs/2503.17712)|null|
+|**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|**[link](https://github.com/liw95/lightloc)**|
+|**2025-03-22**|**HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving**|R. D. Lin et.al.|[2503.17752](http://arxiv.org/abs/2503.17752)|**[link](https://github.com/rdlin118/hilots)**|
+|**2025-03-22**|**Multi-modality Anomaly Segmentation on the Road**|Heng Gao et.al.|[2503.17712](http://arxiv.org/abs/2503.17712)|**[link](https://github.com/henggao12/mmras_plus)**|
 |**2025-03-22**|**Sense4FL: Vehicular Crowdsensing Enhanced Federated Learning for Autonomous Driving**|Yanan Ma et.al.|[2503.17697](http://arxiv.org/abs/2503.17697)|null|
 |**2025-03-21**|**How to Promote Autonomous Driving with Evolving Technology: Business Strategy and Pricing Decision**|Mingliang Li et.al.|[2503.17174](http://arxiv.org/abs/2503.17174)|null|
 |**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
@@ -5116,7 +5116,7 @@ layout: default
 |**2025-03-20**|**Nano-3D: Metasurface-Based Neural Depth Imaging**|Bingxuan Li et.al.|[2503.15770](http://arxiv.org/abs/2503.15770)|null|
 |**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[2503.15672](http://arxiv.org/abs/2503.15672)|null|
 |**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[2503.15435](http://arxiv.org/abs/2503.15435)|null|
-|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|**[link](https://github.com/esrschao/edgeregnet)**|
 |**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[2503.15087](http://arxiv.org/abs/2503.15087)|null|
 |**2025-03-19**|**DRoPE: Directional Rotary Position Embedding for Efficient Agent Interaction Modeling**|Jianbo Zhao et.al.|[2503.15029](http://arxiv.org/abs/2503.15029)|null|
 |**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950](http://arxiv.org/abs/2503.14950)|null|
@@ -5144,13 +5144,13 @@ layout: default
 |**2025-03-17**|**Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation**|Kailin Li et.al.|[2503.12820](http://arxiv.org/abs/2503.12820)|null|
 |**2025-03-17**|**SAM2 for Image and Video Segmentation: A Comprehensive Survey**|Zhang Jiaxing et.al.|[2503.12781](http://arxiv.org/abs/2503.12781)|null|
 |**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720](http://arxiv.org/abs/2503.12720)|**[link](https://github.com/Qjizhi/GenStereo)**|
-|**2025-03-16**|**Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding**|Imran Kabir et.al.|[2503.12663](http://arxiv.org/abs/2503.12663)|null|
+|**2025-03-16**|**Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding**|Imran Kabir et.al.|[2503.12663](http://arxiv.org/abs/2503.12663)|**[link](https://github.com/imran2205/logicrag)**|
 |**2025-03-16**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|**[link](https://github.com/yaotingwangofficial/awesome-mcot)**|
 |**2025-03-16**|**Point Cloud Based Scene Segmentation: A Survey**|Dan Halperin et.al.|[2503.12595](http://arxiv.org/abs/2503.12595)|null|
 |**2025-03-16**|**Car-1000: A New Large Scale Fine-Grained Visual Categorization Dataset**|Yutao Hu et.al.|[2503.12385](http://arxiv.org/abs/2503.12385)|null|
 |**2025-03-16**|**L2COcc: Lightweight Camera-Centric Semantic Scene Completion via Distillation of LiDAR Model**|Ruoyu Wang et.al.|[2503.12369](http://arxiv.org/abs/2503.12369)|null|
 |**2025-03-16**|**ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions**|Wenqing Kuang et.al.|[2503.12350](http://arxiv.org/abs/2503.12350)|null|
-|**2025-03-15**|**Bench2FreeAD: A Benchmark for Vision-based End-to-end Navigation in Unstructured Robotic Environments**|Yuhang Peng et.al.|[2503.12180](http://arxiv.org/abs/2503.12180)|null|
+|**2025-03-15**|**Bench2FreeAD: A Benchmark for Vision-based End-to-end Navigation in Unstructured Robotic Environments**|Yuhang Peng et.al.|[2503.12180](http://arxiv.org/abs/2503.12180)|**[link](https://github.com/AIR-DISCOVER/FreeAD)**|
 |**2025-03-15**|**DiffAD: A Unified Diffusion Modeling Approach for Autonomous Driving**|Tao Wang et.al.|[2503.12170](http://arxiv.org/abs/2503.12170)|null|
 |**2025-03-15**|**SFMNet: Sparse Focal Modulation for 3D Object Detection**|Oren Shrout et.al.|[2503.12093](http://arxiv.org/abs/2503.12093)|null|
 |**2025-03-15**|**Generative Modeling of Adversarial Lane-Change Scenario**|Chuancheng Zhang et.al.|[2503.12055](http://arxiv.org/abs/2503.12055)|null|
@@ -5160,7 +5160,7 @@ layout: default
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|**[link](https://github.com/nubot-nudt/bevdiffloc)**|
 |**2025-03-14**|**Learning-Based MPC for Efficient Control of Autonomous Vehicles**|Samuel Mallick et.al.|[2503.11359](http://arxiv.org/abs/2503.11359)|**[link](https://github.com/samuelmallick/mpcrl-vehicle-gears)**|
 |**2025-03-14**|**DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**|Xirui Zhou et.al.|[2503.11265](http://arxiv.org/abs/2503.11265)|null|
-|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|null|
+|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|**[link](https://github.com/hongbin98/drivegen)**|
 |**2025-03-14**|**Active Learning from Scene Embeddings for End-to-End Autonomous Driving**|Wenhao Jiang et.al.|[2503.11062](http://arxiv.org/abs/2503.11062)|null|
 |**2025-03-13**|**Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM**|Yizhou Huang et.al.|[2503.10898](http://arxiv.org/abs/2503.10898)|null|
 |**2025-03-13**|**TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models**|Xiangyu Yin et.al.|[2503.10872](http://arxiv.org/abs/2503.10872)|null|
@@ -5306,7 +5306,7 @@ layout: default
 |**2025-02-24**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342](http://arxiv.org/abs/2502.15342)|**[link](https://github.com/VSlabRobotics/PFSD)**|
 |**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[2502.15180](http://arxiv.org/abs/2502.15180)|**[link](https://github.com/jlchen-c/occprophet)**|
 |**2025-02-21**|**CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models**|Zihao Sheng et.al.|[2502.15119](http://arxiv.org/abs/2502.15119)|null|
-|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|null|
+|**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[2502.15076](http://arxiv.org/abs/2502.15076)|**[link](https://github.com/richardmarcus/synth-it-like-kitti)**|
 |**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
 |**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792](http://arxiv.org/abs/2502.14792)|null|
 |**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[2502.14574](http://arxiv.org/abs/2502.14574)|null|
