@@ -5062,6 +5062,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381](http://arxiv.org/abs/2503.24381)|**[link](https://github.com/tasl-lab/uniocc)**|
+|**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[2503.24320](http://arxiv.org/abs/2503.24320)|null|
+|**2025-03-31**|**4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey**|Xiangyuan Peng et.al.|[2503.24091](http://arxiv.org/abs/2503.24091)|null|
+|**2025-03-31**|**DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model**|Ming Yuan et.al.|[2503.23993](http://arxiv.org/abs/2503.23993)|null|
+|**2025-03-31**|**Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving**|Miao Fan et.al.|[2503.23965](http://arxiv.org/abs/2503.23965)|null|
+|**2025-03-31**|**A Benchmark for Vision-Centric HD Mapping by V2I Systems**|Miao Fan et.al.|[2503.23963](http://arxiv.org/abs/2503.23963)|null|
+|**2025-03-31**|**GLane3D : Detecting Lanes with Graph of 3D Keypoints**|Halil İbrahim Öztürk et.al.|[2503.23882](http://arxiv.org/abs/2503.23882)|null|
+|**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[2503.23765](http://arxiv.org/abs/2503.23765)|null|
+|**2025-03-31**|**Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**|Jingzheng Li et.al.|[2503.23708](http://arxiv.org/abs/2503.23708)|null|
+|**2025-03-31**|**A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**|Zhuoren Li et.al.|[2503.23650](http://arxiv.org/abs/2503.23650)|null|
+|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|null|
+|**2025-03-30**|**A Visual-Inertial Motion Prior SLAM for Dynamic Environments**|Weilong Sun et.al.|[2503.23429](http://arxiv.org/abs/2503.23429)|null|
+|**2025-03-30**|**OnSiteVRU: A High-Resolution Trajectory Dataset for High-Density Vulnerable Road Users**|Zhangcun Yan et.al.|[2503.23365](http://arxiv.org/abs/2503.23365)|null|
+|**2025-03-29**|**VLM-C4L: Continual Core Dataset Learning with Corner Case Optimization via Vision-Language Models for Autonomous Driving**|Haibo Hu et.al.|[2503.23046](http://arxiv.org/abs/2503.23046)|null|
+|**2025-03-28**|**Markov Potential Game Construction and Multi-Agent Reinforcement Learning with Applications to Autonomous Driving**|Huiwen Yan et.al.|[2503.22867](http://arxiv.org/abs/2503.22867)|null|
 |**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[2503.22541](http://arxiv.org/abs/2503.22541)|null|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436](http://arxiv.org/abs/2503.22436)|null|
 |**2025-03-28**|**VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow**|Yancong Lin et.al.|[2503.22328](http://arxiv.org/abs/2503.22328)|null|
@@ -5458,6 +5473,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|null|
 |**2025-03-27**|**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**|Qingqing Zhao et.al.|[2503.22020](http://arxiv.org/abs/2503.22020)|null|
 |**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
