@@ -5062,6 +5062,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
+|**2025-04-02**|**End-to-End Driving with Online Trajectory Evaluation via BEV World Model**|Yingyan Li et.al.|[2504.01941](http://arxiv.org/abs/2504.01941)|null|
+|**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
+|**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[2504.01588](http://arxiv.org/abs/2504.01588)|null|
+|**2025-04-02**|**Deep LG-Track: An Enhanced Localization-Confidence-Guided Multi-Object Tracker**|Ting Meng et.al.|[2504.01457](http://arxiv.org/abs/2504.01457)|null|
+|**2025-04-02**|**DF-Calib: Targetless LiDAR-Camera Calibration via Depth Flow**|Shu Han et.al.|[2504.01416](http://arxiv.org/abs/2504.01416)|null|
+|**2025-04-02**|**Pedestrian-Aware Motion Planning for Autonomous Driving in Complex Urban Scenarios**|Korbinian Moller et.al.|[2504.01409](http://arxiv.org/abs/2504.01409)|null|
+|**2025-04-02**|**From Shadows to Safety: Occlusion Tracking and Risk Mitigation for Urban Autonomous Driving**|Korbinian Moller et.al.|[2504.01408](http://arxiv.org/abs/2504.01408)|null|
+|**2025-04-01**|**Foundation Models for Autonomous Driving System: An Initial Roadmap**|Xiongfei Wu et.al.|[2504.00911](http://arxiv.org/abs/2504.00911)|null|
+|**2025-04-01**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
+|**2025-04-01**|**UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**|Yunxuan Mao et.al.|[2504.00763](http://arxiv.org/abs/2504.00763)|null|
+|**2025-04-01**|**ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs**|Qi Song et.al.|[2504.00437](http://arxiv.org/abs/2504.00437)|null|
+|**2025-04-01**|**Intrinsic-feature-guided 3D Object Detection**|Wanjing Zhang et.al.|[2504.00382](http://arxiv.org/abs/2504.00382)|null|
+|**2025-04-01**|**MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**|Zhiyuan Zhang et.al.|[2504.00379](http://arxiv.org/abs/2504.00379)|null|
+|**2025-03-31**|**CF-CAM: Gradient Perturbation Mitigation and Feature Stabilization for Reliable Interpretability**|Hongjie He et.al.|[2504.00060](http://arxiv.org/abs/2504.00060)|null|
 |**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381](http://arxiv.org/abs/2503.24381)|**[link](https://github.com/tasl-lab/uniocc)**|
 |**2025-04-01**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326](http://arxiv.org/abs/2503.24326)|null|
 |**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[2503.24320](http://arxiv.org/abs/2503.24320)|null|
@@ -5438,6 +5453,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-01**|**Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration**|Zilong Huang et.al.|[2504.00387](http://arxiv.org/abs/2504.00387)|null|
 |**2025-03-28**|**Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting**|Yiren Lu et.al.|[2503.22204](http://arxiv.org/abs/2503.22204)|null|
 |**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682](http://arxiv.org/abs/2503.20682)|null|
 |**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647](http://arxiv.org/abs/2503.19647)|null|
@@ -5474,7 +5490,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|null|
+|**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Ram Ramrakhya et.al.|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
+|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
 |**2025-03-27**|**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**|Qingqing Zhao et.al.|[2503.22020](http://arxiv.org/abs/2503.22020)|null|
 |**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
