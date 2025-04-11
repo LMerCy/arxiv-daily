@@ -64,6 +64,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
+|**2025-04-10**|**RASMD: RGB And SWIR Multispectral Driving Dataset for Robust Perception in Adverse Conditions**|Youngwan Jin et.al.|[2504.07603](http://arxiv.org/abs/2504.07603)|null|
+|**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[2504.07507](http://arxiv.org/abs/2504.07507)|null|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
 |**2025-04-09**|**Dynamic Residual Safe Reinforcement Learning for Multi-Agent Safety-Critical Scenarios Decision-Making**|Kaifeng Wang et.al.|[2504.06670](http://arxiv.org/abs/2504.06670)|null|
 |**2025-04-10**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[2504.06647](http://arxiv.org/abs/2504.06647)|null|
