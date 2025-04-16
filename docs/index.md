@@ -5062,6 +5062,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
+|**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[2504.10873](http://arxiv.org/abs/2504.10873)|null|
+|**2025-04-15**|**PatrolVision: Automated License Plate Recognition in the wild**|Anmol Singhal Navya Singhal et.al.|[2504.10810](http://arxiv.org/abs/2504.10810)|null|
+|**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/abs/2504.10757)|null|
+|**2025-04-14**|**FuzzSense: Towards A Modular Fuzzing Framework for Autonomous Driving Software**|Andrew Roberts et.al.|[2504.10717](http://arxiv.org/abs/2504.10717)|null|
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
 |**2025-04-14**|**Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving**|Xiaoshan Zhou et.al.|[2504.10296](http://arxiv.org/abs/2504.10296)|null|
 |**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[2504.10275](http://arxiv.org/abs/2504.10275)|null|
@@ -5488,6 +5493,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073](http://arxiv.org/abs/2504.11073)|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994](http://arxiv.org/abs/2504.06994)|null|
 |**2025-04-04**|**Control Map Distribution using Map Query Bank for Online Map Generation**|Ziming Liu et.al.|[2504.03868](http://arxiv.org/abs/2504.03868)|null|
 |**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[2503.15672](http://arxiv.org/abs/2503.15672)|null|
@@ -5556,7 +5562,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Daniel Tcheurekdjian et.al.|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Ram Ramrakhya et.al.|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
