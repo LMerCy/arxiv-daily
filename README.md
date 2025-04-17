@@ -65,6 +65,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**|Yafeng Bu et.al.|[2504.12109](http://arxiv.org/abs/2504.12109)|null|
+|**2025-04-16**|**Contract-based hierarchical control using predictive feasibility value functions**|Felix Berkel et.al.|[2504.12036](http://arxiv.org/abs/2504.12036)|null|
+|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[2504.11514](http://arxiv.org/abs/2504.11514)|null|
+|**2025-04-11**|**High Dynamic Range Modulo Imaging for Robust Object Detection in Autonomous Driving**|Kebin Contreras et.al.|[2504.11472](http://arxiv.org/abs/2504.11472)|null|
 |**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
 |**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[2504.10873](http://arxiv.org/abs/2504.10873)|null|
 |**2025-04-15**|**PatrolVision: Automated License Plate Recognition in the wild**|Anmol Singhal Navya Singhal et.al.|[2504.10810](http://arxiv.org/abs/2504.10810)|null|
