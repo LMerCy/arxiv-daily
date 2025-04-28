@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2025-02-06**|**Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**|Hong Lu et.al.|[2502.04558](http://arxiv.org/abs/2502.04558)|null|
 |**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/abs/2502.02175)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -70,10 +70,10 @@
 |**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[2504.17534](http://arxiv.org/abs/2504.17534)|null|
 |**2025-04-24**|**Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**|Phillip Pitschi et.al.|[2504.17418](http://arxiv.org/abs/2504.17418)|null|
 |**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2504.17399](http://arxiv.org/abs/2504.17399)|null|
-|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
+|**2025-04-25**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
-|**2025-04-23**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[2504.16526](http://arxiv.org/abs/2504.16526)|null|
+|**2025-04-25**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[2504.16526](http://arxiv.org/abs/2504.16526)|null|
 |**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[2504.16397](http://arxiv.org/abs/2504.16397)|null|
 |**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[2504.16377](http://arxiv.org/abs/2504.16377)|null|
 |**2025-04-23**|**DPGP: A Hybrid 2D-3D Dual Path Potential Ghost Probe Zone Prediction Framework for Safe Autonomous Driving**|Weiming Qu et.al.|[2504.16374](http://arxiv.org/abs/2504.16374)|null|
@@ -491,7 +491,7 @@
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## HDMap
 
@@ -524,7 +524,7 @@
 |**2024-06-20**|**LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction**|Kuang Wu et.al.|[2406.13988](http://arxiv.org/abs/2406.13988)|null|
 |**2024-06-05**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[2406.01961](http://arxiv.org/abs/2406.01961)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Open Vocabulary
 
@@ -566,7 +566,7 @@
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-10-16**|**BlabberSeg: Real-Time Embedded Open-Vocabulary Aerial Segmentation**|Haechan Mark Bong et.al.|[2410.12979](http://arxiv.org/abs/2410.12979)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors
