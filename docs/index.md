@@ -1547,7 +1547,7 @@ layout: default
 |**2024-11-22**|**Fast High-Quality Enhanced Imaging Algorithm for Layered Dielectric Targets Based on MMW MIMO-SAR System**|Xu Chen et.al.|[2411.14837](http://arxiv.org/abs/2411.14837)|null|
 |**2024-11-22**|**BrightVAE: Luminosity Enhancement in Underexposed Endoscopic Images**|Farzaneh Koohestani et.al.|[2411.14663](http://arxiv.org/abs/2411.14663)|null|
 |**2024-11-22**|**VQalAttent: a Transparent Speech Generation Pipeline based on Transformer-learned VQ-VAE Latent Space**|Armani Rodriguez et.al.|[2411.14642](http://arxiv.org/abs/2411.14642)|null|
-|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
+|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|**[link](https://github.com/rssl-mtu/enhancement-detection-analysis)**|
 |**2024-11-21**|**Optimal Transcoding Preset Selection for Live Video Streaming**|Zahra Nabizadeh et.al.|[2411.14613](http://arxiv.org/abs/2411.14613)|null|
 |**2024-11-21**|**Roadmap on Advances in Visual and Physiological Optics**|Jesús E. Gómez-Correa et.al.|[2411.14606](http://arxiv.org/abs/2411.14606)|null|
 |**2024-11-21**|**Night-to-Day Translation via Illumination Degradation Disentanglement**|Guanzhou Lan et.al.|[2411.14504](http://arxiv.org/abs/2411.14504)|null|
@@ -5164,7 +5164,7 @@ layout: default
 |**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164](http://arxiv.org/abs/2504.03164)|null|
 |**2025-04-03**|**Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**|Chenyu Zhang et.al.|[2504.02918](http://arxiv.org/abs/2504.02918)|null|
 |**2025-04-02**|**Enhancing Traffic Sign Recognition On The Performance Based On Yolov8**|Baba Ibrahim et.al.|[2504.02884](http://arxiv.org/abs/2504.02884)|null|
-|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|null|
+|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|**[link](https://github.com/wutad-wjy/charms)**|
 |**2025-04-03**|**MinkOcc: Towards real-time label-efficient semantic occupancy prediction**|Samuel Sze et.al.|[2504.02270](http://arxiv.org/abs/2504.02270)|null|
 |**2025-04-02**|**On Simulation-Guided LLM-based Code Generation for Safe Autonomous Driving Software**|Ali Nouri et.al.|[2504.02141](http://arxiv.org/abs/2504.02141)|null|
 |**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang et.al.|[2504.01997](http://arxiv.org/abs/2504.01997)|null|
