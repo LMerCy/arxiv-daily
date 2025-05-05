@@ -5062,6 +5062,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[2505.01094](http://arxiv.org/abs/2505.01094)|null|
+|**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
+|**2025-05-02**|**Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models**|Yuewen Mei et.al.|[2505.00972](http://arxiv.org/abs/2505.00972)|null|
+|**2025-05-01**|**Efficient On-Chip Implementation of 4D Radar-Based 3D Object Detection on Hailo-8L**|Woong-Chan Byun et.al.|[2505.00757](http://arxiv.org/abs/2505.00757)|null|
 |**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|
 |**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[2505.00511](http://arxiv.org/abs/2505.00511)|null|
 |**2025-05-01**|**HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**|Esteban Rivera et.al.|[2505.00507](http://arxiv.org/abs/2505.00507)|null|
