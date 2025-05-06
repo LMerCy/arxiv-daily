@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation**|Xiaoqi Li et.al.|[2505.02166](http://arxiv.org/abs/2505.02166)|null|
+|**2025-05-04**|**Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions**|Cunxin Fan et.al.|[2505.02152](http://arxiv.org/abs/2505.02152)|null|
 |**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Chia-Yu Hung et.al.|[2504.19854](http://arxiv.org/abs/2504.19854)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
 |**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Mingchen Song et.al.|[2504.15517](http://arxiv.org/abs/2504.15517)|null|
@@ -68,6 +70,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**Risk Assessment and Threat Modeling for safe autonomous driving technology**|Ian Alexis Wong Paz et.al.|[2505.02231](http://arxiv.org/abs/2505.02231)|null|
+|**2025-05-04**|**Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**|Shangzhe Li et.al.|[2505.02228](http://arxiv.org/abs/2505.02228)|null|
+|**2025-05-04**|**Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving**|Alexey Nekrasov et.al.|[2505.02148](http://arxiv.org/abs/2505.02148)|null|
+|**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[2505.02123](http://arxiv.org/abs/2505.02123)|null|
+|**2025-05-03**|**DriveNetBench: An Affordable and Configurable Single-Camera Benchmarking System for Autonomous Driving Networks**|Ali Al-Bustami et.al.|[2505.01893](http://arxiv.org/abs/2505.01893)|**[link](https://github.com/alibustami/DriveNetBench)**|
+|**2025-05-03**|**CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture**|Vladimir Frants et.al.|[2505.01882](http://arxiv.org/abs/2505.01882)|null|
+|**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[2505.01881](http://arxiv.org/abs/2505.01881)|null|
+|**2025-05-03**|**DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**|Haoteng Li et.al.|[2505.01857](http://arxiv.org/abs/2505.01857)|null|
+|**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821](http://arxiv.org/abs/2505.01821)|null|
+|**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[2505.01094](http://arxiv.org/abs/2505.01094)|null|
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
 |**2025-05-02**|**Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models**|Yuewen Mei et.al.|[2505.00972](http://arxiv.org/abs/2505.00972)|null|
