@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
+|**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
+|**2025-05-06**|**Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**|Guillermo Roque et.al.|[2505.03174](http://arxiv.org/abs/2505.03174)|null|
 |**2025-05-04**|**CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation**|Xiaoqi Li et.al.|[2505.02166](http://arxiv.org/abs/2505.02166)|null|
 |**2025-05-04**|**Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions**|Cunxin Fan et.al.|[2505.02152](http://arxiv.org/abs/2505.02152)|null|
 |**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Chia-Yu Hung et.al.|[2504.19854](http://arxiv.org/abs/2504.19854)|null|
@@ -70,6 +73,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[2505.03695](http://arxiv.org/abs/2505.03695)|null|
+|**2025-05-06**|**Moral Testing of Autonomous Driving Systems**|Wenbing Tang et.al.|[2505.03683](http://arxiv.org/abs/2505.03683)|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
+|**2025-05-06**|**Coop-WD: Cooperative Perception with Weighting and Denoising for Robust V2V Communication**|Chenguang Liu et.al.|[2505.03528](http://arxiv.org/abs/2505.03528)|null|
+|**2025-05-06**|**RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation**|Keyu Chen et.al.|[2505.03344](http://arxiv.org/abs/2505.03344)|null|
+|**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[2505.03315](http://arxiv.org/abs/2505.03315)|null|
+|**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300](http://arxiv.org/abs/2505.03300)|null|
+|**2025-05-06**|**RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**|Liam Boyle et.al.|[2505.03238](http://arxiv.org/abs/2505.03238)|null|
+|**2025-05-06**|**VISLIX: An XAI Framework for Validating Vision Models with Slice Discovery and Analysis**|Xinyuan Yan et.al.|[2505.03132](http://arxiv.org/abs/2505.03132)|null|
 |**2025-05-04**|**Risk Assessment and Threat Modeling for safe autonomous driving technology**|Ian Alexis Wong Paz et.al.|[2505.02231](http://arxiv.org/abs/2505.02231)|null|
 |**2025-05-04**|**Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**|Shangzhe Li et.al.|[2505.02228](http://arxiv.org/abs/2505.02228)|null|
 |**2025-05-04**|**Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving**|Alexey Nekrasov et.al.|[2505.02148](http://arxiv.org/abs/2505.02148)|null|
