@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Can Cui et.al.|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
 |**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
 |**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
 |**2025-05-06**|**Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**|Guillermo Roque et.al.|[2505.03174](http://arxiv.org/abs/2505.03174)|null|
@@ -73,6 +74,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[2505.04526](http://arxiv.org/abs/2505.04526)|**[link](https://github.com/davin-qi530/dfvo)**|
+|**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[2505.04438](http://arxiv.org/abs/2505.04438)|null|
+|**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[2505.04392](http://arxiv.org/abs/2505.04392)|null|
+|**2025-05-07**|**Verification of Digital Twins using Classical and Statistical Model Checking**|Raghavendran Gunasekaran et.al.|[2505.04322](http://arxiv.org/abs/2505.04322)|null|
+|**2025-05-07**|**Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**|Taoyuan Yu et.al.|[2505.04231](http://arxiv.org/abs/2505.04231)|null|
+|**2025-05-07**|**Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks**|Xuyang Wang et.al.|[2505.04046](http://arxiv.org/abs/2505.04046)|null|
 |**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[2505.03695](http://arxiv.org/abs/2505.03695)|null|
 |**2025-05-06**|**Moral Testing of Autonomous Driving Systems**|Wenbing Tang et.al.|[2505.03683](http://arxiv.org/abs/2505.03683)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
