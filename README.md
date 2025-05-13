@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
+|**2025-05-12**|**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**|Hongyin Zhang et.al.|[2505.07395](http://arxiv.org/abs/2505.07395)|null|
 |**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Qingwen Bu et.al.|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Vineet Bhat et.al.|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
 |**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Pranav Guruprasad et.al.|[2505.05540](http://arxiv.org/abs/2505.05540)|null|
@@ -78,6 +80,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
+|**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[2505.07084](http://arxiv.org/abs/2505.07084)|null|
+|**2025-05-11**|**Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**|Seokjun Kwon et.al.|[2505.06951](http://arxiv.org/abs/2505.06951)|null|
+|**2025-05-11**|**Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**|Chengkai Xu et.al.|[2505.06875](http://arxiv.org/abs/2505.06875)|null|
+|**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[2505.06856](http://arxiv.org/abs/2505.06856)|null|
+|**2025-05-10**|**Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**|Atsushi Yano et.al.|[2505.06780](http://arxiv.org/abs/2505.06780)|null|
+|**2025-05-10**|**AI-CDA4All: Democratizing Cooperative Autonomous Driving for All Drivers via Affordable Dash-cam Hardware and Open-source AI Software**|Shengming Yuan et.al.|[2505.06749](http://arxiv.org/abs/2505.06749)|null|
+|**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|null|
+|**2025-05-10**|**TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**|Marius Baden et.al.|[2505.06743](http://arxiv.org/abs/2505.06743)|null|
+|**2025-05-10**|**Boundary-Guided Trajectory Prediction for Road Aware and Physically Feasible Autonomous Driving**|Ahmed Abouelazm et.al.|[2505.06740](http://arxiv.org/abs/2505.06740)|null|
+|**2025-05-10**|**Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**|Ahmed Abouelazm et.al.|[2505.06737](http://arxiv.org/abs/2505.06737)|null|
+|**2025-05-10**|**A Contrastive Federated Semi-Supervised Learning Intrusion Detection Framework for Internet of Robotic Things**|Yifan Zeng et.al.|[2505.06636](http://arxiv.org/abs/2505.06636)|null|
+|**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
+|**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[2505.06482](http://arxiv.org/abs/2505.06482)|null|
+|**2025-05-09**|**What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**|Somayeh Molaei et.al.|[2505.06428](http://arxiv.org/abs/2505.06428)|null|
+|**2025-05-09**|**Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**|Ming Liu et.al.|[2505.06413](http://arxiv.org/abs/2505.06413)|null|
 |**2025-05-09**|**Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**|Francesco Prignoli et.al.|[2505.05933](http://arxiv.org/abs/2505.05933)|null|
 |**2025-05-08**|**Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks**|Mohamed-Khalil Bouzidi et.al.|[2505.05638](http://arxiv.org/abs/2505.05638)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
@@ -615,6 +633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832](http://arxiv.org/abs/2505.06832)|null|
 |**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
 |**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153](http://arxiv.org/abs/2504.13153)|**[link](https://github.com/atrovast/thgs)**|
 |**2025-04-12**|**AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images**|Saikat Dutta et.al.|[2504.09203](http://arxiv.org/abs/2504.09203)|null|
