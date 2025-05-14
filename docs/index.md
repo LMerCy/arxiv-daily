@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5067,7 +5067,7 @@ layout: default
 |**2025-05-11**|**Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**|Seokjun Kwon et.al.|[2505.06951](http://arxiv.org/abs/2505.06951)|null|
 |**2025-05-11**|**Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**|Chengkai Xu et.al.|[2505.06875](http://arxiv.org/abs/2505.06875)|null|
 |**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[2505.06856](http://arxiv.org/abs/2505.06856)|null|
-|**2025-05-10**|**Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**|Atsushi Yano et.al.|[2505.06780](http://arxiv.org/abs/2505.06780)|null|
+|**2025-05-13**|**Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**|Atsushi Yano et.al.|[2505.06780](http://arxiv.org/abs/2505.06780)|null|
 |**2025-05-10**|**AI-CDA4All: Democratizing Cooperative Autonomous Driving for All Drivers via Affordable Dash-cam Hardware and Open-source AI Software**|Shengming Yuan et.al.|[2505.06749](http://arxiv.org/abs/2505.06749)|null|
 |**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[2505.06746](http://arxiv.org/abs/2505.06746)|null|
 |**2025-05-10**|**TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**|Marius Baden et.al.|[2505.06743](http://arxiv.org/abs/2505.06743)|null|
@@ -5076,7 +5076,7 @@ layout: default
 |**2025-05-10**|**A Contrastive Federated Semi-Supervised Learning Intrusion Detection Framework for Internet of Robotic Things**|Yifan Zeng et.al.|[2505.06636](http://arxiv.org/abs/2505.06636)|null|
 |**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
 |**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[2505.06482](http://arxiv.org/abs/2505.06482)|null|
-|**2025-05-09**|**What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**|Somayeh Molaei et.al.|[2505.06428](http://arxiv.org/abs/2505.06428)|null|
+|**2025-05-09**|**What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**|Somayeh Molaei et.al.|[2505.06428](http://arxiv.org/abs/2505.06428)|**[link](https://github.com/comp-hci-lab/conversationalXAV)**|
 |**2025-05-09**|**Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**|Ming Liu et.al.|[2505.06413](http://arxiv.org/abs/2505.06413)|null|
 |**2025-05-09**|**Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**|Francesco Prignoli et.al.|[2505.05933](http://arxiv.org/abs/2505.05933)|null|
 |**2025-05-08**|**Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks**|Mohamed-Khalil Bouzidi et.al.|[2505.05638](http://arxiv.org/abs/2505.05638)|null|
@@ -5701,7 +5701,7 @@ layout: default
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Vineet Bhat et.al.|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
 |**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Pranav Guruprasad et.al.|[2505.05540](http://arxiv.org/abs/2505.05540)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
-|**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Can Cui et.al.|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
+|**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Can Cui et.al.|[2505.03912](http://arxiv.org/abs/2505.03912)|**[link](https://github.com/OpenHelix-robot/OpenHelix)**|
 |**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
 |**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
 |**2025-05-06**|**Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**|Guillermo Roque et.al.|[2505.03174](http://arxiv.org/abs/2505.03174)|null|
