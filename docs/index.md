@@ -5062,6 +5062,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
+|**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[2505.10258](http://arxiv.org/abs/2505.10258)|null|
+|**2025-05-15**|**Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks**|Guangjin Pan et.al.|[2505.10134](http://arxiv.org/abs/2505.10134)|**[link](https://github.com/guangjinpan/lwlm)**|
+|**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016](http://arxiv.org/abs/2505.10016)|null|
 |**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562](http://arxiv.org/abs/2505.09562)|null|
 |**2025-05-15**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
 |**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422](http://arxiv.org/abs/2505.09422)|null|
@@ -5637,6 +5641,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[2505.10258](http://arxiv.org/abs/2505.10258)|null|
 |**2025-05-10**|**Driving with Context: Online Map Matching for Complex Roads Using Lane Markings and Scenario Recognition**|Xin Bi et.al.|[2505.05007](http://arxiv.org/abs/2505.05007)|**[link](https://github.com/trv-lab/lmsr-omm)**|
 |**2025-04-29**|**Mapping a Movement: Exploring a Proposed Police Training Facility in Atlanta and the Stop Cop City Movement through Online Maps**|Camille Harris et.al.|[2504.20886](http://arxiv.org/abs/2504.20886)|null|
 |**2025-04-17**|**UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**|Pengxuan Yang et.al.|[2504.12826](http://arxiv.org/abs/2504.12826)|**[link](https://github.com/pengxuanyang/uncad)**|
