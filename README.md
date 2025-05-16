@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-05-13**|**Training Strategies for Efficient Embodied Reasoning**|William Chen et.al.|[2505.08243](http://arxiv.org/abs/2505.08243)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**|Hongyin Zhang et.al.|[2505.07395](http://arxiv.org/abs/2505.07395)|null|
-|**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Qingwen Bu et.al.|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
+|**2025-05-15**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Qingwen Bu et.al.|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Vineet Bhat et.al.|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
 |**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Pranav Guruprasad et.al.|[2505.05540](http://arxiv.org/abs/2505.05540)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
@@ -78,14 +78,14 @@
 |**2025-02-06**|**Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**|Hong Lu et.al.|[2502.04558](http://arxiv.org/abs/2502.04558)|null|
 |**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/abs/2502.02175)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562](http://arxiv.org/abs/2505.09562)|null|
-|**2025-05-14**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
+|**2025-05-15**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
 |**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422](http://arxiv.org/abs/2505.09422)|null|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
 |**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356](http://arxiv.org/abs/2505.09356)|**[link](https://github.com/gt-arc/apr-transformer)**|
@@ -94,7 +94,7 @@
 |**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[2505.09074](http://arxiv.org/abs/2505.09074)|null|
 |**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[2505.08999](http://arxiv.org/abs/2505.08999)|**[link](https://github.com/pgao-lab/amga)**|
 |**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[2505.08854](http://arxiv.org/abs/2505.08854)|**[link](https://github.com/taco-group/genai4ad)**|
-|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
 |**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724](http://arxiv.org/abs/2505.08724)|null|
 |**2025-05-13**|**Explaining Autonomous Vehicles with Intention-aware Policy Graphs**|Sara Montese et.al.|[2505.08404](http://arxiv.org/abs/2505.08404)|null|
 |**2025-05-13**|**A Practical Introduction to Deep Reinforcement Learning**|Yinghan Sun et.al.|[2505.08295](http://arxiv.org/abs/2505.08295)|null|
@@ -102,7 +102,7 @@
 |**2025-05-13**|**Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**|Unai Gurbindo et.al.|[2505.08228](http://arxiv.org/abs/2505.08228)|null|
 |**2025-05-12**|**Topology-Guided Knowledge Distillation for Efficient Point Cloud Processing**|Luu Tung Hai et.al.|[2505.08101](http://arxiv.org/abs/2505.08101)|**[link](https://github.com/hysonlab/pointdistill)**|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
-|**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[2505.07084](http://arxiv.org/abs/2505.07084)|null|
+|**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[2505.07084](http://arxiv.org/abs/2505.07084)|**[link](https://github.com/s95huang/drivesotif)**|
 |**2025-05-11**|**Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**|Seokjun Kwon et.al.|[2505.06951](http://arxiv.org/abs/2505.06951)|null|
 |**2025-05-11**|**Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**|Chengkai Xu et.al.|[2505.06875](http://arxiv.org/abs/2505.06875)|null|
 |**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[2505.06856](http://arxiv.org/abs/2505.06856)|null|
@@ -613,7 +613,7 @@
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## HDMap
 
@@ -648,7 +648,7 @@
 |**2024-06-20**|**LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction**|Kuang Wu et.al.|[2406.13988](http://arxiv.org/abs/2406.13988)|null|
 |**2024-06-05**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[2406.01961](http://arxiv.org/abs/2406.01961)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Open Vocabulary
 
@@ -693,7 +693,7 @@
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-10-16**|**BlabberSeg: Real-Time Embedded Open-Vocabulary Aerial Segmentation**|Haechan Mark Bong et.al.|[2410.12979](http://arxiv.org/abs/2410.12979)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors
