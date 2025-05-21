@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5074,7 +5074,7 @@ layout: default
 |**2025-05-18**|**Road Segmentation for ADAS/AD Applications**|Mathanesh Vellingiri Ramasamy et.al.|[2505.12206](http://arxiv.org/abs/2505.12206)|null|
 |**2025-05-18**|**Always Clear Depth: Robust Monocular Depth Estimation under Adverse Weather**|Kui Jiang et.al.|[2505.12199](http://arxiv.org/abs/2505.12199)|**[link](https://github.com/msscao/acdepth)**|
 |**2025-05-17**|**FIGhost: Fluorescent Ink-based Stealthy and Flexible Backdoor Attacks on Physical Traffic Sign Recognition**|Shuai Yuan et.al.|[2505.12045](http://arxiv.org/abs/2505.12045)|null|
-|**2025-05-16**|**Reachability Barrier Networks: Learning Hamilton-Jacobi Solutions for Smooth and Flexible Control Barrier Functions**|Matthew Kim et.al.|[2505.11755](http://arxiv.org/abs/2505.11755)|null|
+|**2025-05-20**|**Reachability Barrier Networks: Learning Hamilton-Jacobi Solutions for Smooth and Flexible Control Barrier Functions**|Matthew Kim et.al.|[2505.11755](http://arxiv.org/abs/2505.11755)|null|
 |**2025-05-16**|**REACT: Runtime-Enabled Active Collision-avoidance Technique for Autonomous Driving**|Heye Huang et.al.|[2505.11474](http://arxiv.org/abs/2505.11474)|null|
 |**2025-05-16**|**LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**|Mingxing Peng et.al.|[2505.11247](http://arxiv.org/abs/2505.11247)|null|
 |**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116](http://arxiv.org/abs/2505.11116)|null|
@@ -5735,7 +5735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-18**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|null|
+|**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|null|
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Fanqi Lin et.al.|[2505.11917](http://arxiv.org/abs/2505.11917)|null|
 |**2025-05-16**|**Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions**|Wei Zhao et.al.|[2505.11214](http://arxiv.org/abs/2505.11214)|null|
 |**2025-05-16**|**Conditioning Matters: Training Diffusion Policies is Faster Than You Think**|Zibin Dong et.al.|[2505.11123](http://arxiv.org/abs/2505.11123)|null|
