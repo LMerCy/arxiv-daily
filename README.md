@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Zhiqian Lan et.al.|[2505.14030](http://arxiv.org/abs/2505.14030)|null|
+|**2025-05-20**|**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**|Ji Zhang et.al.|[2505.13888](http://arxiv.org/abs/2505.13888)|null|
 |**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|null|
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Fanqi Lin et.al.|[2505.11917](http://arxiv.org/abs/2505.11917)|null|
 |**2025-05-16**|**Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions**|Wei Zhao et.al.|[2505.11214](http://arxiv.org/abs/2505.11214)|null|
@@ -88,6 +90,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[2505.13872](http://arxiv.org/abs/2505.13872)|null|
+|**2025-05-20**|**SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**|Ruqin Zhou et.al.|[2505.13856](http://arxiv.org/abs/2505.13856)|null|
+|**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[2505.13817](http://arxiv.org/abs/2505.13817)|null|
+|**2025-05-19**|**Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning**|Muyang Fan et.al.|[2505.13543](http://arxiv.org/abs/2505.13543)|null|
+|**2025-05-18**|**Distributional Soft Actor-Critic with Harmonic Gradient for Safe and Efficient Autonomous Driving in Multi-lane Scenarios**|Feihong Zhang et.al.|[2505.13532](http://arxiv.org/abs/2505.13532)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266](http://arxiv.org/abs/2505.13266)|null|
 |**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715](http://arxiv.org/abs/2505.12715)|null|
