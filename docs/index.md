@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5068,7 +5068,7 @@ layout: default
 |**2025-05-19**|**Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning**|Muyang Fan et.al.|[2505.13543](http://arxiv.org/abs/2505.13543)|null|
 |**2025-05-18**|**Distributional Soft Actor-Critic with Harmonic Gradient for Safe and Efficient Autonomous Driving in Multi-lane Scenarios**|Feihong Zhang et.al.|[2505.13532](http://arxiv.org/abs/2505.13532)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266](http://arxiv.org/abs/2505.13266)|null|
-|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
+|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|**[link](https://github.com/HEmile/neurosymbolic-diffusion)**|
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715](http://arxiv.org/abs/2505.12715)|null|
 |**2025-05-19**|**TS-VLM: Text-Guided SoftSort Pooling for Vision-Language Models in Multi-View Driving Reasoning**|Lihong Chen et.al.|[2505.12670](http://arxiv.org/abs/2505.12670)|null|
 |**2025-05-19**|**Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions**|Tanmay Vilas Samak et.al.|[2505.12661](http://arxiv.org/abs/2505.12661)|null|
@@ -5754,7 +5754,7 @@ layout: default
 |**2025-05-12**|**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**|Hongyin Zhang et.al.|[2505.07395](http://arxiv.org/abs/2505.07395)|null|
 |**2025-05-15**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Qingwen Bu et.al.|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Vineet Bhat et.al.|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
-|**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Pranav Guruprasad et.al.|[2505.05540](http://arxiv.org/abs/2505.05540)|null|
+|**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Pranav Guruprasad et.al.|[2505.05540](http://arxiv.org/abs/2505.05540)|**[link](https://github.com/ManifoldRG/MultiNet)**|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Can Cui et.al.|[2505.03912](http://arxiv.org/abs/2505.03912)|**[link](https://github.com/OpenHelix-robot/OpenHelix)**|
 |**2025-05-16**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
