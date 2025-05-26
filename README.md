@@ -24,7 +24,7 @@
 |**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Xueyang Zhou et.al.|[2505.16640](http://arxiv.org/abs/2505.16640)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
-|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
+|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|**[link](https://github.com/hritdy/claw_machine)**|
 |**2025-05-21**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Jiaming Zhou et.al.|[2505.15660](http://arxiv.org/abs/2505.15660)|null|
 |**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Ruijie Zheng et.al.|[2505.15659](http://arxiv.org/abs/2505.15659)|null|
 |**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
@@ -126,15 +126,15 @@
 |**2025-05-21**|**LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval**|Zhenyu Ning et.al.|[2505.15269](http://arxiv.org/abs/2505.15269)|null|
 |**2025-05-21**|**DC-Scene: Data-Centric Learning for 3D Scene Understanding**|Ting Huang et.al.|[2505.15232](http://arxiv.org/abs/2505.15232)|**[link](https://github.com/aigeeksgroup/dc-scene)**|
 |**2025-05-21**|**ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving**|Yunsheng Ma et.al.|[2505.15158](http://arxiv.org/abs/2505.15158)|null|
-|**2025-05-21**|**iPad: Iterative Proposal-centric End-to-End Autonomous Driving**|Ke Guo et.al.|[2505.15111](http://arxiv.org/abs/2505.15111)|null|
+|**2025-05-21**|**iPad: Iterative Proposal-centric End-to-End Autonomous Driving**|Ke Guo et.al.|[2505.15111](http://arxiv.org/abs/2505.15111)|**[link](https://github.com/Kguo-cs/iPad)**|
 |**2025-05-21**|**UniSTPA: A Safety Analysis Framework for End-to-End Autonomous Driving**|Hongrui Kou et.al.|[2505.15005](http://arxiv.org/abs/2505.15005)|null|
 |**2025-05-20**|**Rate-Accuracy Bounds in Visual Coding for Machines**|Ivan V. Bajić et.al.|[2505.14980](http://arxiv.org/abs/2505.14980)|null|
-|**2025-05-20**|**Programmatic Video Prediction Using Large Language Models**|Hao Tang et.al.|[2505.14948](http://arxiv.org/abs/2505.14948)|null|
-|**2025-05-20**|**Multi-modal Traffic Scenario Generation for Autonomous Driving System Testing**|Zhi Tu et.al.|[2505.14881](http://arxiv.org/abs/2505.14881)|null|
+|**2025-05-20**|**Programmatic Video Prediction Using Large Language Models**|Hao Tang et.al.|[2505.14948](http://arxiv.org/abs/2505.14948)|**[link](https://github.com/metro-smiles/ProgGen)**|
+|**2025-05-20**|**Multi-modal Traffic Scenario Generation for Autonomous Driving System Testing**|Zhi Tu et.al.|[2505.14881](http://arxiv.org/abs/2505.14881)|**[link](https://github.com/TrafficComposer/TrafficComposer)**|
 |**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[2505.13872](http://arxiv.org/abs/2505.13872)|null|
 |**2025-05-20**|**SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**|Ruqin Zhou et.al.|[2505.13856](http://arxiv.org/abs/2505.13856)|null|
 |**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[2505.13817](http://arxiv.org/abs/2505.13817)|null|
-|**2025-05-19**|**Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning**|Muyang Fan et.al.|[2505.13543](http://arxiv.org/abs/2505.13543)|null|
+|**2025-05-19**|**Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning**|Muyang Fan et.al.|[2505.13543](http://arxiv.org/abs/2505.13543)|**[link](https://github.com/cgchrfchscyrh/MixedTrafficControl_IROS)**|
 |**2025-05-18**|**Distributional Soft Actor-Critic with Harmonic Gradient for Safe and Efficient Autonomous Driving in Multi-lane Scenarios**|Feihong Zhang et.al.|[2505.13532](http://arxiv.org/abs/2505.13532)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266](http://arxiv.org/abs/2505.13266)|null|
 |**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|**[link](https://github.com/HEmile/neurosymbolic-diffusion)**|
@@ -573,7 +573,7 @@
 |**2025-03-07**|**A Hybrid Approach for Extending Automotive Radar Operation to NLOS Urban Scenarios**|Aviran Gal et.al.|[2503.05413](http://arxiv.org/abs/2503.05413)|null|
 |**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274](http://arxiv.org/abs/2503.05274)|null|
 |**2025-03-07**|**Discrete Contrastive Learning for Diffusion Policies in Autonomous Driving**|Kalle Kujanpää et.al.|[2503.05229](http://arxiv.org/abs/2503.05229)|null|
-|**2025-03-07**|**A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**|Shanhe You et.al.|[2503.05164](http://arxiv.org/abs/2503.05164)|null|
+|**2025-03-07**|**A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**|Shanhe You et.al.|[2503.05164](http://arxiv.org/abs/2503.05164)|**[link](https://github.com/AIR-DISCOVER/Driving-Evaluation-Dataset)**|
 |**2025-03-07**|**An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**|Changhong Lin et.al.|[2503.05088](http://arxiv.org/abs/2503.05088)|null|
 |**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077](http://arxiv.org/abs/2503.05077)|**[link](https://github.com/chengwei0427/adaptive_lio)**|
 |**2025-03-06**|**Quantifying and Modeling Driving Styles in Trajectory Forecasting**|Laura Zheng et.al.|[2503.04994](http://arxiv.org/abs/2503.04994)|null|
