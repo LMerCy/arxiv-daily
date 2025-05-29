@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5074,11 +5074,11 @@ layout: default
 |**2025-05-27**|**OccLE: Label-Efficient 3D Semantic Occupancy Prediction**|Naiyu Fang et.al.|[2505.20617](http://arxiv.org/abs/2505.20617)|null|
 |**2025-05-26**|**WeatherEdit: Controllable Weather Editing with 4D Gaussian Field**|Chenghao Qian et.al.|[2505.20471](http://arxiv.org/abs/2505.20471)|null|
 |**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
-|**2025-05-26**|**Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**|Yixin Cui et.al.|[2505.20223](http://arxiv.org/abs/2505.20223)|null|
-|**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[2505.20024](http://arxiv.org/abs/2505.20024)|null|
+|**2025-05-26**|**Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**|Yixin Cui et.al.|[2505.20223](http://arxiv.org/abs/2505.20223)|**[link](https://github.com/cuiyx1720/awesome-cot4ad)**|
+|**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[2505.20024](http://arxiv.org/abs/2505.20024)|**[link](https://github.com/liuxueyi/reasonplan)**|
 |**2025-05-26**|**Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**|Ran Yu et.al.|[2505.19939](http://arxiv.org/abs/2505.19939)|null|
 |**2025-05-26**|**Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation**|Nagito Saito et.al.|[2505.19846](http://arxiv.org/abs/2505.19846)|null|
-|**2025-05-26**|**DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving**|Wenchao Sun et.al.|[2505.19692](http://arxiv.org/abs/2505.19692)|null|
+|**2025-05-26**|**DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving**|Wenchao Sun et.al.|[2505.19692](http://arxiv.org/abs/2505.19692)|**[link](https://github.com/swc-17/drivecamsim)**|
 |**2025-05-26**|**LF-GNSS: Towards More Robust Satellite Positioning with a Hard Example Mining Enhanced Learning-Filtering Deep Fusion Framework**|Jianan Lou et.al.|[2505.19560](http://arxiv.org/abs/2505.19560)|null|
 |**2025-05-26**|**DiffE2E: Rethinking End-to-End Driving with a Hybrid Action Diffusion and Supervised Policy**|Rui Zhao et.al.|[2505.19516](http://arxiv.org/abs/2505.19516)|null|
 |**2025-05-27**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[2505.19381](http://arxiv.org/abs/2505.19381)|null|
@@ -5819,14 +5819,14 @@ layout: default
 |**2025-05-26**|**RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback**|Junyang Shu et.al.|[2505.19767](http://arxiv.org/abs/2505.19767)|null|
 |**2025-05-25**|**ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning**|Tuan Van Vo et.al.|[2505.19080](http://arxiv.org/abs/2505.19080)|null|
 |**2025-05-24**|**Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance**|Wenhao Wang et.al.|[2505.18793](http://arxiv.org/abs/2505.18793)|null|
-|**2025-05-24**|**VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning**|Guanxing Lu et.al.|[2505.18719](http://arxiv.org/abs/2505.18719)|null|
+|**2025-05-24**|**VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning**|Guanxing Lu et.al.|[2505.18719](http://arxiv.org/abs/2505.18719)|**[link](https://github.com/guanxinglu/vlarl)**|
 |**2025-05-22**|**ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems**|Zhiling Chen et.al.|[2505.17295](http://arxiv.org/abs/2505.17295)|null|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
 |**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Xueyang Zhou et.al.|[2505.16640](http://arxiv.org/abs/2505.16640)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|**[link](https://github.com/hritdy/claw_machine)**|
-|**2025-05-24**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Jiaming Zhou et.al.|[2505.15660](http://arxiv.org/abs/2505.15660)|null|
+|**2025-05-24**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Jiaming Zhou et.al.|[2505.15660](http://arxiv.org/abs/2505.15660)|**[link](https://github.com/jiaming-zhou/X-ICM)**|
 |**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Ruijie Zheng et.al.|[2505.15659](http://arxiv.org/abs/2505.15659)|null|
 |**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
 |**2025-05-21**|**EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy**|Chi Kit Ng et.al.|[2505.15206](http://arxiv.org/abs/2505.15206)|null|
