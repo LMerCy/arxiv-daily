@@ -5062,6 +5062,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616](http://arxiv.org/abs/2505.22616)|null|
+|**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[2505.22541](http://arxiv.org/abs/2505.22541)|null|
+|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
+|**2025-05-28**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[2505.22461](http://arxiv.org/abs/2505.22461)|null|
+|**2025-05-28**|**GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**|Anthony Chen et.al.|[2505.22421](http://arxiv.org/abs/2505.22421)|null|
+|**2025-05-28**|**From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving**|Xinyu Xia et.al.|[2505.22067](http://arxiv.org/abs/2505.22067)|null|
+|**2025-05-28**|**Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing**|Manchao Bao et.al.|[2505.22025](http://arxiv.org/abs/2505.22025)|null|
+|**2025-05-28**|**LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments**|Chenfeng Wei et.al.|[2505.21914](http://arxiv.org/abs/2505.21914)|null|
+|**2025-05-28**|**An Optimistic Algorithm for online CMDPS with Anytime Adversarial Constraints**|Jiahui Zhu et.al.|[2505.21841](http://arxiv.org/abs/2505.21841)|null|
+|**2025-05-27**|**Do you see what I see? An Ambiguous Optical Illusion Dataset exposing limitations of Explainable AI**|Carina Newen et.al.|[2505.21589](http://arxiv.org/abs/2505.21589)|null|
+|**2025-05-27**|**CogAD: Cognitive-Hierarchy Guided End-to-End Autonomous Driving**|Zhennan Wang et.al.|[2505.21581](http://arxiv.org/abs/2505.21581)|null|
+|**2025-05-27**|**Towards Human-Like Trajectory Prediction for Autonomous Driving: A Behavior-Centric Approach**|Haicheng Liao et.al.|[2505.21565](http://arxiv.org/abs/2505.21565)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**A first look at ROS~2 applications written in asynchronous Rust**|Martin Škoudlil et.al.|[2505.21323](http://arxiv.org/abs/2505.21323)|null|
 |**2025-05-27**|**Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing**|Dehao Wang et.al.|[2505.21049](http://arxiv.org/abs/2505.21049)|null|
@@ -5768,6 +5780,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
 |**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
 |**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832](http://arxiv.org/abs/2505.06832)|null|
@@ -5812,6 +5825,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Jiawen Yu et.al.|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
+|**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Zhongyi Zhou et.al.|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
+|**2025-05-27**|**EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models**|Feng Jiang et.al.|[2505.21567](http://arxiv.org/abs/2505.21567)|null|
 |**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
 |**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Xudong Tan et.al.|[2505.21200](http://arxiv.org/abs/2505.21200)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
