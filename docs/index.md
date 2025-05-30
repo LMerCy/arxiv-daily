@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5064,9 +5064,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616](http://arxiv.org/abs/2505.22616)|null|
 |**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[2505.22541](http://arxiv.org/abs/2505.22541)|null|
-|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
-|**2025-05-28**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[2505.22461](http://arxiv.org/abs/2505.22461)|null|
-|**2025-05-28**|**GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**|Anthony Chen et.al.|[2505.22421](http://arxiv.org/abs/2505.22421)|null|
+|**2025-05-29**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
+|**2025-05-29**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[2505.22461](http://arxiv.org/abs/2505.22461)|null|
+|**2025-05-29**|**GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**|Anthony Chen et.al.|[2505.22421](http://arxiv.org/abs/2505.22421)|null|
 |**2025-05-28**|**From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving**|Xinyu Xia et.al.|[2505.22067](http://arxiv.org/abs/2505.22067)|null|
 |**2025-05-28**|**Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing**|Manchao Bao et.al.|[2505.22025](http://arxiv.org/abs/2505.22025)|null|
 |**2025-05-28**|**LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments**|Chenfeng Wei et.al.|[2505.21914](http://arxiv.org/abs/2505.21914)|null|
@@ -5828,7 +5828,7 @@ layout: default
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Jiawen Yu et.al.|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Zhongyi Zhou et.al.|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-27**|**EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models**|Feng Jiang et.al.|[2505.21567](http://arxiv.org/abs/2505.21567)|null|
-|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-29**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
 |**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Xudong Tan et.al.|[2505.21200](http://arxiv.org/abs/2505.21200)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
 |**2025-05-26**|**What Can RL Bring to VLA Generalization? An Empirical Study**|Jijia Liu et.al.|[2505.19789](http://arxiv.org/abs/2505.19789)|null|
