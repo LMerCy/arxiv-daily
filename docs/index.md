@@ -5062,6 +5062,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
+|**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
+|**2025-06-03**|**Functionality Assessment Framework for Autonomous Driving Systems using Subjective Networks**|Stefan Orf et.al.|[2506.02922](http://arxiv.org/abs/2506.02922)|null|
+|**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914](http://arxiv.org/abs/2506.02914)|null|
+|**2025-06-03**|**GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**|Sohyun Lee et.al.|[2506.02882](http://arxiv.org/abs/2506.02882)|null|
+|**2025-06-03**|**BEVCALIB: LiDAR-Camera Calibration via Geometry-Guided Bird's-Eye View Representations**|Weiduo Yuan et.al.|[2506.02587](http://arxiv.org/abs/2506.02587)|null|
+|**2025-06-03**|**V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving**|Xuewen Luo et.al.|[2506.02580](http://arxiv.org/abs/2506.02580)|null|
+|**2025-06-03**|**HiLO: High-Level Object Fusion for Autonomous Driving using Transformers**|Timo Osterburg et.al.|[2506.02554](http://arxiv.org/abs/2506.02554)|null|
+|**2025-06-03**|**RoadFormer : Local-Global Feature Fusion for Road Surface Classification in Autonomous Driving**|Tianze Wang et.al.|[2506.02358](http://arxiv.org/abs/2506.02358)|null|
+|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
+|**2025-06-02**|**Your Interface, Your Control: Adapting Takeover Requests for Seamless Handover in Semi-Autonomous Vehicles**|Amr Gomaa et.al.|[2506.01836](http://arxiv.org/abs/2506.01836)|null|
+|**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379](http://arxiv.org/abs/2506.01379)|null|
+|**2025-06-02**|**The Actor-Critic Update Order Matters for PPO in Federated Reinforcement Learning**|Zhijie Xie et.al.|[2506.01261](http://arxiv.org/abs/2506.01261)|null|
+|**2025-06-01**|**Test Automation for Interactive Scenarios via Promptable Traffic Simulation**|Augusto Mondelli et.al.|[2506.01199](http://arxiv.org/abs/2506.01199)|null|
+|**2025-06-01**|**Pseudo-Labeling Driven Refinement of Benchmark Object Detection Datasets via Analysis of Learning Patterns**|Min Je Kim et.al.|[2506.00997](http://arxiv.org/abs/2506.00997)|null|
+|**2025-06-01**|**Improving Multi-Vehicle Perception Fusion with Millimeter-Wave Radar Assistance**|Zhiqing Luo et.al.|[2506.00837](http://arxiv.org/abs/2506.00837)|null|
+|**2025-06-01**|**DriveMind: A Dual-VLM based Reinforcement Learning Framework for Autonomous Driving**|Dawood Wasif et.al.|[2506.00819](http://arxiv.org/abs/2506.00819)|null|
+|**2025-05-31**|**AWML: An Open-Source ML-based Robotics Perception Framework to Deploy for ROS-based Autonomous Driving Software**|Satoshi Tanaka et.al.|[2506.00645](http://arxiv.org/abs/2506.00645)|null|
+|**2025-05-31**|**A "Wenlu" Brain System for Multimodal Cognition and Embodied Decision-Making: A Secure New Architecture for Deep Integration of Foundation Models and Domain Knowledge**|Liang Geng et.al.|[2506.00570](http://arxiv.org/abs/2506.00570)|null|
+|**2025-05-31**|**Using Diffusion Ensembles to Estimate Uncertainty for End-to-End Autonomous Driving**|Florian Wintel et.al.|[2506.00560](http://arxiv.org/abs/2506.00560)|null|
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
 |**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
 |**2025-05-30**|**SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**|Yuqi Fan et.al.|[2505.24390](http://arxiv.org/abs/2505.24390)|null|
@@ -5793,6 +5813,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-02**|**DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes**|Jiajun Jiang et.al.|[2506.01950](http://arxiv.org/abs/2506.01950)|null|
 |**2025-05-30**|**un $^2$ CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP**|Yinqi Li et.al.|[2505.24517](http://arxiv.org/abs/2505.24517)|null|
 |**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704](http://arxiv.org/abs/2505.23704)|**[link](https://github.com/hamadya/cldtracker)**|
 |**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
@@ -5840,6 +5862,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning**|Hao Chen et.al.|[2506.01953](http://arxiv.org/abs/2506.01953)|null|
+|**2025-06-02**|**SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**|Mustafa Shukor et.al.|[2506.01844](http://arxiv.org/abs/2506.01844)|null|
+|**2025-06-02**|**MLA-Trust: Benchmarking Trustworthiness of Multimodal LLM Agents in GUI Environments**|Xiao Yang et.al.|[2506.01616](http://arxiv.org/abs/2506.01616)|null|
+|**2025-06-02**|**ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding**|Yiyang Zhou et.al.|[2506.01300](http://arxiv.org/abs/2506.01300)|null|
+|**2025-06-01**|**OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation**|Ishika Singh et.al.|[2506.01196](http://arxiv.org/abs/2506.01196)|null|
+|**2025-05-31**|**LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks**|Yi Yang et.al.|[2506.00411](http://arxiv.org/abs/2506.00411)|null|
 |**2025-05-30**|**Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction**|Chenyou Fan et.al.|[2505.24156](http://arxiv.org/abs/2505.24156)|null|
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|**[link](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
