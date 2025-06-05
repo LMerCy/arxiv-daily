@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5813,8 +5813,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-02**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
-|**2025-06-02**|**DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes**|Jiajun Jiang et.al.|[2506.01950](http://arxiv.org/abs/2506.01950)|null|
+|**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-04**|**DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes**|Jiajun Jiang et.al.|[2506.01950](http://arxiv.org/abs/2506.01950)|null|
 |**2025-05-30**|**un $^2$ CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP**|Yinqi Li et.al.|[2505.24517](http://arxiv.org/abs/2505.24517)|null|
 |**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704](http://arxiv.org/abs/2505.23704)|**[link](https://github.com/hamadya/cldtracker)**|
 |**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
