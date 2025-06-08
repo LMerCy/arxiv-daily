@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -119,7 +119,7 @@
 |**2025-02-06**|**Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**|Hong Lu et.al.|[2502.04558](http://arxiv.org/abs/2502.04558)|null|
 |**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/abs/2502.02175)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -805,7 +805,7 @@
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## HDMap
 
@@ -842,7 +842,7 @@
 |**2024-06-20**|**LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction**|Kuang Wu et.al.|[2406.13988](http://arxiv.org/abs/2406.13988)|null|
 |**2024-06-05**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[2406.01961](http://arxiv.org/abs/2406.01961)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Open Vocabulary
 
@@ -852,7 +852,7 @@
 |**2025-06-04**|**DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes**|Jiajun Jiang et.al.|[2506.01950](http://arxiv.org/abs/2506.01950)|null|
 |**2025-05-30**|**un $^2$ CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP**|Yinqi Li et.al.|[2505.24517](http://arxiv.org/abs/2505.24517)|null|
 |**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704](http://arxiv.org/abs/2505.23704)|**[link](https://github.com/hamadya/cldtracker)**|
-|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
+|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|**[link](https://github.com/dosowiechi/mlmp)**|
 |**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
 |**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832](http://arxiv.org/abs/2505.06832)|null|
@@ -893,7 +893,7 @@
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-10-16**|**BlabberSeg: Real-Time Embedded Open-Vocabulary Aerial Segmentation**|Haechan Mark Bong et.al.|[2410.12979](http://arxiv.org/abs/2410.12979)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

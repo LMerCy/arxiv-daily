@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5827,7 +5827,7 @@ layout: default
 |**2025-06-04**|**DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes**|Jiajun Jiang et.al.|[2506.01950](http://arxiv.org/abs/2506.01950)|null|
 |**2025-05-30**|**un $^2$ CLIP: Improving CLIP's Visual Detail Capturing Ability via Inverting unCLIP**|Yinqi Li et.al.|[2505.24517](http://arxiv.org/abs/2505.24517)|null|
 |**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704](http://arxiv.org/abs/2505.23704)|**[link](https://github.com/hamadya/cldtracker)**|
-|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
+|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|**[link](https://github.com/dosowiechi/mlmp)**|
 |**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974](http://arxiv.org/abs/2505.16974)|**[link](https://github.com/hanzy1996/openseg-r)**|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
 |**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832](http://arxiv.org/abs/2505.06832)|null|
