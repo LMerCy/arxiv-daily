@@ -5062,6 +5062,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Causality-aware Safety Testing for Autonomous Driving Systems**|Wenbing Tang et.al.|[2506.08688](http://arxiv.org/abs/2506.08688)|null|
+|**2025-06-10**|**TrajFlow: Multi-modal Motion Prediction via Flow Matching**|Qi Yan et.al.|[2506.08541](http://arxiv.org/abs/2506.08541)|null|
+|**2025-06-10**|**Robust Evolutionary Multi-Objective Network Architecture Search for Reinforcement Learning (EMNAS-RL)**|Nihal Acharya Adde et.al.|[2506.08533](http://arxiv.org/abs/2506.08533)|null|
+|**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han et.al.|[2506.08482](http://arxiv.org/abs/2506.08482)|null|
+|**2025-06-10**|**Diffusion Models for Safety Validation of Autonomous Driving Systems**|Juanran Wang et.al.|[2506.08459](http://arxiv.org/abs/2506.08459)|null|
+|**2025-06-09**|**Scaling Laws of Motion Forecasting and Planning -- A Technical Report**|Mustafa Baniodeh et.al.|[2506.08228](http://arxiv.org/abs/2506.08228)|null|
+|**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[2506.08149](http://arxiv.org/abs/2506.08149)|null|
+|**2025-06-09**|**ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**|Yongkang Li et.al.|[2506.08052](http://arxiv.org/abs/2506.08052)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
 |**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
@@ -5897,6 +5905,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency**|Yifei Su et.al.|[2506.08822](http://arxiv.org/abs/2506.08822)|null|
+|**2025-06-10**|**Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing**|Christos Margadji et.al.|[2506.08462](http://arxiv.org/abs/2506.08462)|null|
+|**2025-06-10**|**TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization**|Zengjue Chen et.al.|[2506.08440](http://arxiv.org/abs/2506.08440)|null|
+|**2025-06-09**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Hongjun Wu et.al.|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
+|**2025-06-09**|**Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion Models in a Vision-Language-Action Framework**|Huixin Zhan et.al.|[2506.08185](http://arxiv.org/abs/2506.08185)|null|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Zhekai Duan et.al.|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
 |**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Hongyu Wang et.al.|[2506.07530](http://arxiv.org/abs/2506.07530)|null|
