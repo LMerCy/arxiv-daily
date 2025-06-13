@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Zhekai Duan et.al.|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
 |**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Hongyu Wang et.al.|[2506.07530](http://arxiv.org/abs/2506.07530)|null|
 |**2025-06-09**|**Real-Time Execution of Action Chunking Flow Policies**|Kevin Black et.al.|[2506.07339](http://arxiv.org/abs/2506.07339)|null|
-|**2025-06-08**|**Robotic Policy Learning via Human-assisted Action Preference Optimization**|Wenke xia et.al.|[2506.07127](http://arxiv.org/abs/2506.07127)|null|
+|**2025-06-12**|**Robotic Policy Learning via Human-assisted Action Preference Optimization**|Wenke Xia et.al.|[2506.07127](http://arxiv.org/abs/2506.07127)|null|
 |**2025-06-07**|**RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation**|Songhao Han et.al.|[2506.06677](http://arxiv.org/abs/2506.06677)|null|
 |**2025-06-06**|**MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping**|Vineet Bhat et.al.|[2506.06535](http://arxiv.org/abs/2506.06535)|null|
 |**2025-06-06**|**DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models**|Yuhan Hao et.al.|[2506.05667](http://arxiv.org/abs/2506.05667)|null|
@@ -135,7 +135,7 @@
 |**2025-02-06**|**Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**|Hong Lu et.al.|[2502.04558](http://arxiv.org/abs/2502.04558)|null|
 |**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/abs/2502.02175)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -150,7 +150,7 @@
 |**2025-06-11**|**GLD-Road:A global-local decoding road network extraction model for remote sensing images**|Ligao Deng et.al.|[2506.09553](http://arxiv.org/abs/2506.09553)|null|
 |**2025-06-11**|**Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**|Yuxin Liu et.al.|[2506.09485](http://arxiv.org/abs/2506.09485)|null|
 |**2025-06-11**|**Optimizing Cooperative Multi-Object Tracking using Graph Signal Processing**|Maria Damanaki et.al.|[2506.09469](http://arxiv.org/abs/2506.09469)|null|
-|**2025-06-11**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417](http://arxiv.org/abs/2506.09417)|null|
+|**2025-06-12**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417](http://arxiv.org/abs/2506.09417)|null|
 |**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411](http://arxiv.org/abs/2506.09411)|null|
 |**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217](http://arxiv.org/abs/2506.09217)|null|
 |**2025-06-10**|**Causality-aware Safety Testing for Autonomous Driving Systems**|Wenbing Tang et.al.|[2506.08688](http://arxiv.org/abs/2506.08688)|null|
@@ -865,7 +865,7 @@
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## HDMap
 
@@ -902,7 +902,7 @@
 |**2024-06-20**|**LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction**|Kuang Wu et.al.|[2406.13988](http://arxiv.org/abs/2406.13988)|null|
 |**2024-06-05**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[2406.01961](http://arxiv.org/abs/2406.01961)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Open Vocabulary
 
@@ -955,7 +955,7 @@
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-10-16**|**BlabberSeg: Real-Time Embedded Open-Vocabulary Aerial Segmentation**|Haechan Mark Bong et.al.|[2410.12979](http://arxiv.org/abs/2410.12979)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/lidq92/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/lidq92/arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5071,7 +5071,7 @@ layout: default
 |**2025-06-11**|**GLD-Road:A global-local decoding road network extraction model for remote sensing images**|Ligao Deng et.al.|[2506.09553](http://arxiv.org/abs/2506.09553)|null|
 |**2025-06-11**|**Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**|Yuxin Liu et.al.|[2506.09485](http://arxiv.org/abs/2506.09485)|null|
 |**2025-06-11**|**Optimizing Cooperative Multi-Object Tracking using Graph Signal Processing**|Maria Damanaki et.al.|[2506.09469](http://arxiv.org/abs/2506.09469)|null|
-|**2025-06-11**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417](http://arxiv.org/abs/2506.09417)|null|
+|**2025-06-12**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417](http://arxiv.org/abs/2506.09417)|null|
 |**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411](http://arxiv.org/abs/2506.09411)|null|
 |**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217](http://arxiv.org/abs/2506.09217)|null|
 |**2025-06-10**|**Causality-aware Safety Testing for Autonomous Driving Systems**|Wenbing Tang et.al.|[2506.08688](http://arxiv.org/abs/2506.08688)|null|
@@ -5930,7 +5930,7 @@ layout: default
 |**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Zhekai Duan et.al.|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
 |**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Hongyu Wang et.al.|[2506.07530](http://arxiv.org/abs/2506.07530)|null|
 |**2025-06-09**|**Real-Time Execution of Action Chunking Flow Policies**|Kevin Black et.al.|[2506.07339](http://arxiv.org/abs/2506.07339)|null|
-|**2025-06-08**|**Robotic Policy Learning via Human-assisted Action Preference Optimization**|Wenke xia et.al.|[2506.07127](http://arxiv.org/abs/2506.07127)|null|
+|**2025-06-12**|**Robotic Policy Learning via Human-assisted Action Preference Optimization**|Wenke Xia et.al.|[2506.07127](http://arxiv.org/abs/2506.07127)|null|
 |**2025-06-07**|**RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation**|Songhao Han et.al.|[2506.06677](http://arxiv.org/abs/2506.06677)|null|
 |**2025-06-06**|**MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping**|Vineet Bhat et.al.|[2506.06535](http://arxiv.org/abs/2506.06535)|null|
 |**2025-06-06**|**DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models**|Yuhan Hao et.al.|[2506.05667](http://arxiv.org/abs/2506.05667)|null|
