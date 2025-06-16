@@ -5062,6 +5062,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[2506.11842](http://arxiv.org/abs/2506.11842)|null|
+|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
+|**2025-06-13**|**An Empirical study on LLM-based Log Retrieval for Software Engineering Metadata Management**|Simin Sun et.al.|[2506.11659](http://arxiv.org/abs/2506.11659)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
+|**2025-06-13**|**On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving**|Pedram MohajerAnsari et.al.|[2506.11472](http://arxiv.org/abs/2506.11472)|null|
+|**2025-06-13**|**FocalAD: Local Motion Planning for End-to-End Autonomous Driving**|Bin Sun et.al.|[2506.11419](http://arxiv.org/abs/2506.11419)|null|
+|**2025-06-12**|**Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving**|Luke Rowe et.al.|[2506.11234](http://arxiv.org/abs/2506.11234)|null|
 |**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977](http://arxiv.org/abs/2506.10977)|null|
 |**2025-06-12**|**LRSLAM: Low-rank Representation of Signed Distance Fields in Dense Visual SLAM System**|Hongbeen Park et.al.|[2506.10567](http://arxiv.org/abs/2506.10567)|null|
 |**2025-06-12**|**Using Language and Road Manuals to Inform Map Reconstruction for Autonomous Driving**|Akshar Tumu et.al.|[2506.10317](http://arxiv.org/abs/2506.10317)|null|
