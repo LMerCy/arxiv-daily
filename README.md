@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
+|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
+|**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
+|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
+|**2025-06-16**|**Block-wise Adaptive Caching for Accelerating Diffusion Policy**|Kangye Ji et.al.|[2506.13456](http://arxiv.org/abs/2506.13456)|null|
+|**2025-06-16**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-15**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Ye Li et.al.|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Yantai Yang et.al.|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
 |**2025-06-11**|**SAFE: Multitask Failure Detection for Vision-Language-Action Models**|Qiao Gu et.al.|[2506.09937](http://arxiv.org/abs/2506.09937)|null|
@@ -143,6 +150,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
+|**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558](http://arxiv.org/abs/2506.13558)|null|
+|**2025-06-16**|**RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning**|Yueru Luo et.al.|[2506.13553](http://arxiv.org/abs/2506.13553)|null|
+|**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|null|
+|**2025-06-16**|**STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**|Jiamin Wang et.al.|[2506.13138](http://arxiv.org/abs/2506.13138)|null|
+|**2025-06-15**|**Bridging Data-Driven and Physics-Based Models: A Consensus Multi-Model Kalman Filter for Robust Vehicle State Estimation**|Farid Mafi et.al.|[2506.12862](http://arxiv.org/abs/2506.12862)|null|
+|**2025-06-15**|**Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling**|Zhilin Lin et.al.|[2506.12735](http://arxiv.org/abs/2506.12735)|null|
 |**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[2506.11842](http://arxiv.org/abs/2506.11842)|null|
 |**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
 |**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
@@ -903,7 +917,7 @@
 |**2025-04-17**|**Listen to Your Map: An Online Representation for Spatial Sonification**|Lan Wu et.al.|[2412.05486](http://arxiv.org/abs/2412.05486)|null|
 |**2025-04-11**|**Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors**|Peijin Jia et.al.|[2411.17161](http://arxiv.org/abs/2411.17161)|null|
 |**2025-04-10**|**Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map**|Xinyuan Chang et.al.|[2410.23780](http://arxiv.org/abs/2410.23780)|null|
-|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|**[link](https://github.com/Li-Yuetao/ActiveSplat)**|
+|**2025-06-16**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|**[link](https://github.com/Li-Yuetao/ActiveSplat)**|
 |**2025-04-07**|**Exploring Semi-Supervised Learning for Online Mapping**|Adam Lilja et.al.|[2410.10279](http://arxiv.org/abs/2410.10279)|null|
 |**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[2409.10178](http://arxiv.org/abs/2409.10178)|null|
 |**2024-09-17**|**GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction**|Anqi Shi et.al.|[2409.10063](http://arxiv.org/abs/2409.10063)|null|
