@@ -5063,7 +5063,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
-|**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[2506.15313](http://arxiv.org/abs/2506.15313)|null|
+|**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[2506.15313](http://arxiv.org/abs/2506.15313)|**[link](https://github.com/livanoff/mapfm)**|
 |**2025-06-18**|**An Integrated Sensing and Communication System for Time-Sensitive Targets with Random Arrivals**|Homa Nikbakht et.al.|[2506.15045](http://arxiv.org/abs/2506.15045)|null|
 |**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[2506.14589](http://arxiv.org/abs/2506.14589)|**[link](https://github.com/rex-sys-hk/netroller)**|
 |**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[2506.14502](http://arxiv.org/abs/2506.14502)|null|
@@ -5078,7 +5078,7 @@ layout: default
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|**[link](https://github.com/ucla-mobility/AutoVLA)**|
 |**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558](http://arxiv.org/abs/2506.13558)|null|
 |**2025-06-16**|**RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning**|Yueru Luo et.al.|[2506.13553](http://arxiv.org/abs/2506.13553)|null|
-|**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|null|
+|**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|**[link](https://github.com/synsin0/come)**|
 |**2025-06-16**|**STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**|Jiamin Wang et.al.|[2506.13138](http://arxiv.org/abs/2506.13138)|null|
 |**2025-06-15**|**Bridging Data-Driven and Physics-Based Models: A Consensus Multi-Model Kalman Filter for Robust Vehicle State Estimation**|Farid Mafi et.al.|[2506.12862](http://arxiv.org/abs/2506.12862)|null|
 |**2025-06-15**|**Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling**|Zhilin Lin et.al.|[2506.12735](http://arxiv.org/abs/2506.12735)|null|
@@ -5959,7 +5959,7 @@ layout: default
 |**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
 |**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
 |**2025-06-16**|**Block-wise Adaptive Caching for Accelerating Diffusion Policy**|Kangye Ji et.al.|[2506.13456](http://arxiv.org/abs/2506.13456)|null|
-|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
 |**2025-06-15**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Ye Li et.al.|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Yantai Yang et.al.|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
