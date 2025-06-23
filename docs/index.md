@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Compression
@@ -5069,7 +5069,7 @@ layout: default
 |**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[2506.14502](http://arxiv.org/abs/2506.14502)|null|
 |**2025-06-17**|**ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems**|Fanzhi Zeng et.al.|[2506.14299](http://arxiv.org/abs/2506.14299)|null|
 |**2025-06-17**|**Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment**|Weiming Zhang et.al.|[2506.14271](http://arxiv.org/abs/2506.14271)|null|
-|**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|null|
+|**2025-06-20**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243](http://arxiv.org/abs/2506.14243)|**[link](https://github.com/HBLT-hub/CMGHF)**|
 |**2025-06-17**|**KDMOS:Knowledge Distillation for Motion Segmentation**|Chunyu Cao et.al.|[2506.14130](http://arxiv.org/abs/2506.14130)|**[link](https://github.com/scnu-rislab/kdmos)**|
 |**2025-06-17**|**A Hierarchical Test Platform for Vision Language Model (VLM)-Integrated Real-World Autonomous Driving**|Yupeng Zhou et.al.|[2506.14100](http://arxiv.org/abs/2506.14100)|null|
 |**2025-06-17**|**Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems**|Sanjeda Akter et.al.|[2506.14096](http://arxiv.org/abs/2506.14096)|null|
@@ -5952,15 +5952,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
+|**2025-06-19**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|**[link](https://github.com/ucla-mobility/AutoVLA)**|
-|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
+|**2025-06-19**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
 |**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
 |**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
 |**2025-06-16**|**Block-wise Adaptive Caching for Accelerating Diffusion Policy**|Kangye Ji et.al.|[2506.13456](http://arxiv.org/abs/2506.13456)|null|
-|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
-|**2025-06-15**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Ye Li et.al.|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
+|**2025-06-19**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
+|**2025-06-19**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Ye Li et.al.|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Yantai Yang et.al.|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
 |**2025-06-11**|**SAFE: Multitask Failure Detection for Vision-Language-Action Models**|Qiao Gu et.al.|[2506.09937](http://arxiv.org/abs/2506.09937)|null|
