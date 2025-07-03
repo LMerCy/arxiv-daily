@@ -5062,6 +5062,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|
+|**2025-07-02**|**ECCV 2024 W-CODA: 1st Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving**|Kai Chen et.al.|[2507.01735](http://arxiv.org/abs/2507.01735)|null|
+|**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
+|**2025-07-02**|**What Really Matters for Robust Multi-Sensor HD Map Construction?**|Xiaoshuai Hao et.al.|[2507.01484](http://arxiv.org/abs/2507.01484)|null|
+|**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
+|**2025-07-02**|**LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**|Muhammad Atta ur Rahman et.al.|[2507.01308](http://arxiv.org/abs/2507.01308)|null|
+|**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[2507.01284](http://arxiv.org/abs/2507.01284)|null|
+|**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[2507.01264](http://arxiv.org/abs/2507.01264)|null|
+|**2025-07-01**|**RTMap: Real-Time Recursive Mapping with Change Detection and Localization**|Yuheng Du et.al.|[2507.00980](http://arxiv.org/abs/2507.00980)|null|
+|**2025-07-01**|**SafeMap: Robust HD Map Construction from Incomplete Observations**|Xiaoshuai Hao et.al.|[2507.00861](http://arxiv.org/abs/2507.00861)|null|
+|**2025-07-01**|**TopoStreamer: Temporal Lane Segment Topology Reasoning in Autonomous Driving**|Yiming Yang et.al.|[2507.00709](http://arxiv.org/abs/2507.00709)|null|
+|**2025-07-01**|**BEV-VAE: Multi-view Image Generation with Spatial Consistency for Autonomous Driving**|Zeming Chen et.al.|[2507.00707](http://arxiv.org/abs/2507.00707)|null|
+|**2025-07-01**|**World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model**|Yupeng Zheng et.al.|[2507.00603](http://arxiv.org/abs/2507.00603)|null|
+|**2025-07-01**|**Out-of-distribution detection in 3D applications: a review**|Zizhao Li et.al.|[2507.00570](http://arxiv.org/abs/2507.00570)|null|
+|**2025-07-01**|**Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving**|Djamahl Etchegaray et.al.|[2507.00525](http://arxiv.org/abs/2507.00525)|null|
+|**2025-06-30**|**When Digital Twins Meet Large Language Models: Realistic, Interactive, and Editable Simulation for Autonomous Driving**|Tanmay Vilas Samak et.al.|[2507.00319](http://arxiv.org/abs/2507.00319)|null|
+|**2025-06-30**|**Sim2Real Diffusion: Learning Cross-Domain Adaptive Representations for Transferable Autonomous Driving**|Chinmay Vilas Samak et.al.|[2507.00236](http://arxiv.org/abs/2507.00236)|null|
+|**2025-06-30**|**Rethink 3D Object Detection from Physical World**|Satoshi Tanaka et.al.|[2507.00190](http://arxiv.org/abs/2507.00190)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
 |**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[2506.23999](http://arxiv.org/abs/2506.23999)|null|
@@ -6031,6 +6049,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
+|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-01**|**VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers**|Yating Wang et.al.|[2507.01016](http://arxiv.org/abs/2507.01016)|null|
+|**2025-07-01**|**Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding**|Tao Lin et.al.|[2507.00416](http://arxiv.org/abs/2507.00416)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
 |**2025-06-27**|**4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration**|Jiahui Zhang et.al.|[2506.22242](http://arxiv.org/abs/2506.22242)|null|
 |**2025-06-26**|**WorldVLA: Towards Autoregressive Action World Model**|Jun Cen et.al.|[2506.21539](http://arxiv.org/abs/2506.21539)|null|
