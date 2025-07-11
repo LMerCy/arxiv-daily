@@ -175,6 +175,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[2507.07938](http://arxiv.org/abs/2507.07938)|null|
+|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818](http://arxiv.org/abs/2507.07818)|null|
+|**2025-07-10**|**Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision**|Jeonghoon Song et.al.|[2507.07460](http://arxiv.org/abs/2507.07460)|null|
+|**2025-07-10**|**Towards Safe Autonomous Driving: A Real-Time Safeguarding Concept for Motion Planning Algorithms**|Korbinian Moller et.al.|[2507.07444](http://arxiv.org/abs/2507.07444)|null|
 |**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978](http://arxiv.org/abs/2507.06978)|null|
 |**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
 |**2025-07-09**|**Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**|Linyun Gao et.al.|[2507.06907](http://arxiv.org/abs/2507.06907)|null|
@@ -1061,6 +1065,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Driving by Hybrid Navigation: An Online HD-SD Map Association Framework and Benchmark for Autonomous Vehicles**|Jiaxu Wan et.al.|[2507.07487](http://arxiv.org/abs/2507.07487)|null|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
 |**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[2505.10258](http://arxiv.org/abs/2505.10258)|null|
 |**2025-05-10**|**Driving with Context: Online Map Matching for Complex Roads Using Lane Markings and Scenario Recognition**|Xin Bi et.al.|[2505.05007](http://arxiv.org/abs/2505.05007)|**[link](https://github.com/trv-lab/lmsr-omm)**|
@@ -1098,6 +1103,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
 |**2025-07-04**|**Leveraging Out-of-Distribution Unlabeled Images: Semi-Supervised Semantic Segmentation with an Open-Vocabulary Model**|Wooseok Shin et.al.|[2507.03302](http://arxiv.org/abs/2507.03302)|null|
 |**2025-07-07**|**SwiftSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method**|Quang-Huy Che et.al.|[2506.23323](http://arxiv.org/abs/2506.23323)|null|
 |**2025-06-27**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
