@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Jialei Huang et.al.|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
 |**2025-07-09**|**3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds**|Fan-Yun Sun et.al.|[2507.06484](http://arxiv.org/abs/2507.06484)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-10**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
@@ -175,6 +176,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376](http://arxiv.org/abs/2507.10376)|null|
+|**2025-07-14**|**FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**|Jingwei Xu et.al.|[2507.10367](http://arxiv.org/abs/2507.10367)|null|
+|**2025-07-14**|**MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**|Marc Kaufeld et.al.|[2507.10047](http://arxiv.org/abs/2507.10047)|null|
+|**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-14**|**Crucial-Diff: A Unified Diffusion Model for Crucial Image and Annotation Synthesis in Data-scarce Scenarios**|Siyue Yao et.al.|[2507.09915](http://arxiv.org/abs/2507.09915)|null|
+|**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
+|**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
+|**2025-07-12**|**Meeting Deadlines in Motion: Deep RL for Real-Time Task Offloading in Vehicular Edge Networks**|Mahsa Paknejad et.al.|[2507.09341](http://arxiv.org/abs/2507.09341)|null|
+|**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[2507.09214](http://arxiv.org/abs/2507.09214)|null|
+|**2025-07-12**|**THYME: Temporal Hierarchical-Cyclic Interactivity Modeling for Video Scene Graphs in Aerial Footage**|Trong-Thuan Nguyen et.al.|[2507.09200](http://arxiv.org/abs/2507.09200)|null|
+|**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
+|**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
+|**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[2507.09061](http://arxiv.org/abs/2507.09061)|null|
+|**2025-07-11**|**Multimodal HD Mapping for Intersections by Intelligent Roadside Units**|Zhongzhang Chen et.al.|[2507.08903](http://arxiv.org/abs/2507.08903)|null|
+|**2025-07-11**|**End-to-End Generation of City-Scale Vectorized Maps by Crowdsourced Vehicles**|Zebang Feng et.al.|[2507.08901](http://arxiv.org/abs/2507.08901)|null|
 |**2025-07-11**|**Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine**|Kongwu Huang et.al.|[2507.08716](http://arxiv.org/abs/2507.08716)|null|
 |**2025-07-14**|**STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**|Xinyi Ning et.al.|[2507.08563](http://arxiv.org/abs/2507.08563)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
@@ -1106,6 +1124,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**OTAS: Open-vocabulary Token Alignment for Outdoor Segmentation**|Simon Schwaiger et.al.|[2507.08851](http://arxiv.org/abs/2507.08851)|null|
 |**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
 |**2025-07-04**|**Leveraging Out-of-Distribution Unlabeled Images: Semi-Supervised Semantic Segmentation with an Open-Vocabulary Model**|Wooseok Shin et.al.|[2507.03302](http://arxiv.org/abs/2507.03302)|null|
 |**2025-07-07**|**SwiftSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method**|Quang-Huy Che et.al.|[2506.23323](http://arxiv.org/abs/2506.23323)|null|
